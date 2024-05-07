@@ -134,7 +134,7 @@ Each presentation should have 6 slides addressing the following questions:
 5. ILLUSTRATION: Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
 6. CONCLUSION: What are the limitations of the answer provided in the paper? How could the answer be improved?
 
-Presentation slides must be written in LaTeX and compiled to a PDF. 
+Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Mariana by email](mailto:mbessari@ucsc.edu) before the date of the presentation.
 
 ---
 
@@ -204,7 +204,7 @@ Early and final results should be presented in 15 minutes with 7–8 slides.
 + Slides 5–7: overview of the results
 + Slide 8: summary & next steps
 
-Presentation slides must be written in LaTeX and compiled to a PDF.
+Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Mariana by email](mailto:mbessari@ucsc.edu) before the date of the presentation.
 
 #### Format of the paper
 
