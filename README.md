@@ -12,6 +12,7 @@ The course material is hosted at https://pascalmichaillat.org/c1/.
 + [Reading material](https://github.com/pmichaillat/unemployment/tree/main/readings) – The folder contains book chapters and articles assigned as reading that may be hard to find otherwise.
 + [Section material](https://github.com/pmichaillat/unemployment/tree/main/sections) – The folder contains material from sections.
 + [Lecture material](https://github.com/pmichaillat/unemployment/tree/main/lectures) - The folder contains notes from lectures initiated from students' questions.
++ [Research material](https://github.com/pmichaillat/unemployment/tree/main/research) - The folder contains additional material for students' research projects. 
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions) – This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
 
 ## License
