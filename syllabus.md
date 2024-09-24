@@ -49,7 +49,7 @@ The course's topic is unemployment. The course presents facts about the labor ma
 Office hours are conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters:
 
 + Professor office hours: Wednesday, 4:00pm-5:00pm, in Engineering 2 Building, room 437
-+ TA office hours: Friday, 1:00pm–3:00pm, in Engineering 2 Building, room 403B
++ TA office hours: Friday, 9:30am–11:30am, in Engineering 2 Building, room 403B
 
 #### GitHub Discussions
 
