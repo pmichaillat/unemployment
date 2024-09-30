@@ -157,7 +157,7 @@ A good research paper should do the following:
 2. Answer the research question using a combination of theory, simulations, and empirical analysis
 3. Position the paper in the prior literature
 
-Your research paper will be evaluated based on how well it acccomplishes these three taks. 
+Your research paper will be evaluated based on how well it accomplishes these three tasks. 
 
 More specifically, a good research paper should adhere to the following guidelines:
 
@@ -167,6 +167,25 @@ More specifically, a good research paper should adhere to the following guidelin
 4. It should describe the results obtained in the analysis using diagrams, tables, and figures.
 5. It should discuss the limitations of the current analysis, and how the limitations could be addressed in the future.
 
+#### Possible research question
+
+Any research question related to unemployment is acceptable for the research paper. The research question could involve unemployment directly or related labor-market phenomena (nonparticipation, part-time employment, underemployment, job vacancies, unemployment insurance, etc.). The question can look at the US labor market, at national labor markets abroad, or at local labor markets (in a specific US states, specific commuting zones, or specific industries).
+
+You are welcome to work on any research question that you would like. If you are looking for some inspiration, I would encourage you to look at the readings for the course. There are several ways to write research papers based on any of the papers assigned as reading:
+
++ Reproduce the empirical or numerical results of the paper
++ Extend the empirical or numerical results of the paper by looking at different outcomes or implications of framework
++ Extend the empirical or numerical results of the paper, using more recent data or data for different countries
++ Modify the empirical or numerical results of the paper, using different assumptions or different computational or statistical methods
+
+For example, in one of the readings, [Shimer (2005)](https://www.aeaweb.org/articles?id=10.1257/0002828053828572) estimates the fluctuations in unemployment and vacancies in the US, and simulates the fluctuations in a DMP model. In your research paper, you could:
+
++ Reproduce the estimation
++ Reproduce the simulation
++ Redo the estimation or simulation using newer US data (Shimer stops in 2003) or older US data (Shimer starts in 1951, but [data are now available from 1930](https://github.com/pmichaillat/feru)).
++ Redo the estimation in a different country
++ Redo the simulation by calibrating the DMP model for a different country
++ Redo the simulation by using a different matching model, such as a model with wage rigidity or job rationing.
 
 #### Research teams
 
