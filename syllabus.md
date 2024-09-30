@@ -167,7 +167,7 @@ More specifically, a good research paper should adhere to the following guidelin
 4. It should describe the results obtained in the analysis using diagrams, tables, and figures.
 5. It should discuss the limitations of the current analysis, and how the limitations could be addressed in the future.
 
-#### Possible research question
+#### Possible research questions
 
 Any research question related to unemployment is acceptable for the research paper. The research question could involve unemployment directly or related labor-market phenomena (nonparticipation, part-time employment, underemployment, job vacancies, unemployment insurance, etc.). The question can look at the US labor market, at national labor markets abroad, or at local labor markets (in a specific US states, specific commuting zones, or specific industries).
 
@@ -182,10 +182,10 @@ For example, in one of the readings, [Shimer (2005)](https://www.aeaweb.org/arti
 
 + Reproduce the estimation
 + Reproduce the simulation
-+ Redo the estimation or simulation using newer US data (Shimer stops in 2003) or older US data (Shimer starts in 1951, but [data are now available from 1930](https://github.com/pmichaillat/feru)).
++ Redo the estimation or simulation using newer US data (Shimer stops in 2003) or older US data (Shimer starts in 1951, but [data are now available from 1930](https://github.com/pmichaillat/feru))
 + Redo the estimation in a different country
 + Redo the simulation by calibrating the DMP model for a different country
-+ Redo the simulation by using a different matching model, such as a model with wage rigidity or job rationing.
++ Redo the simulation by using a different matching model, such as a model with wage rigidity or job rationing
 
 #### Research teams
 
