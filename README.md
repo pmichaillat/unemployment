@@ -10,8 +10,8 @@ The course material is hosted at https://pascalmichaillat.org/c1/.
 
 + [Syllabus for Fall 2024](https://github.com/pmichaillat/unemployment/blob/main/syllabus.md)
 + [Reading material](https://github.com/pmichaillat/unemployment/tree/main/readings) – The folder contains book chapters and articles that may be hard to find online.
++ [Lecture material](https://github.com/pmichaillat/unemployment/tree/main/lectures) - The folder contains discussions from lecture.
 <!-- + [Section material](https://github.com/pmichaillat/unemployment/tree/main/sections) – The folder contains material from section.
-+ [Lecture material](https://github.com/pmichaillat/unemployment/tree/main/lectures) - The folder contains answers given to students' questions during lecture.
 + [Research material](https://github.com/pmichaillat/unemployment/tree/main/research) - The folder contains material for students' research projects. -->
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions) – This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along course announcements.
 
