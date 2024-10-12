@@ -79,7 +79,7 @@ At home, you will have to watch the following lecture videos:
 + Before Wednesday 6 November: videos in [Frictional and rationing unemployment](https://pascalmichaillat.org/c1/#frictional-and-rationing-unemployment)
 + Before Wednesday 13 November: videos in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/c1/#efficient-unemployment-and-unemployment-gap)
 + Before Wednesday 20 November: videos in [Labor-demand policies](https://pascalmichaillat.org/c1/#labor-demand-policies)
-+ Before Wednesday 27 November: videos in [Unemployment insurance](https://pascalmichaillat.org/c1/#unemployment-insurance)
++ Before Wednesday 27 November: videos in [Unemployment insurance](https://pascalmichaillat.org/c1/#unemployment-insurance) (there is no in-person meeting on Wednesday 27 November as [it is the day before Thanksgiving](https://github.com/pmichaillat/unemployment/discussions/49))
 
 #### Schedule of readings
 
@@ -111,7 +111,7 @@ Sections will be devoted to solving multiple-choice quizzes based on lecture mat
 + Monday 4 November/Wednesday 6 November: quizzes on [Unemployment fluctuations](https://pascalmichaillat.org/v9.pdf)
 + Wednesday 13 November: quizzes on [Frictional and rationing unemployment](https://pascalmichaillat.org/v10.pdf) (there is no section on Monday 11 November as [it is a university holiday](https://registrar.ucsc.edu/calendar/key-dates/index.html))
 + Monday 18 November/Wednesday 20 November: quizzes on [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v11.pdf)
-+ Monday 25 November/Wednesday 27 November: quizzes on [Labor-demand policies](https://pascalmichaillat.org/v12.pdf)
++ Monday 25 November: quizzes on [Labor-demand policies](https://pascalmichaillat.org/v12.pdf) (there is no section on Wednesday 27 November as [it is the day before Thanksgiving](https://github.com/pmichaillat/unemployment/discussions/49))
 + Monday 2 December/Wednesday 4 December: quizzes on [Unemployment insurance](https://pascalmichaillat.org/v13.pdf)
 
 The section quizzes are designed to help review and assimilate the content from lecture. This content provides the building blocks that you will use in your research project. As such, mastering the lecture content is key, and the section quizzes are here to help you do that.
