@@ -49,7 +49,7 @@ The course's topic is unemployment. The course presents facts about the labor ma
 Office hours are conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters:
 
 + Professor office hours: Wednesday, 4:00pm-5:00pm, in Engineering 2 Building, room 437
-+ TA office hours: Monday, 2:00pm–4:00pm, in Engineering 2 Building, room TBD
++ TA office hours: Monday, 2:00pm–4:00pm, in Engineering 2 Building, room 403B
 
 #### GitHub Discussions
 
@@ -131,7 +131,7 @@ Each presentation should have 6 slides addressing the following questions:
 5. ILLUSTRATION: Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
 6. CONCLUSION: What are the limitations of the answer provided in the paper? How could the answer be improved? What else would you have liked to know or learn on the topic?
 
-Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before the date of the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the day of the presentation.
 
 ---
 
@@ -206,7 +206,7 @@ The project outline should be presented in 10 minutes with 5 slides.
 + Slide 4 – Overview of what you have so far: data & model & code & other ideas
 + Slide 5 – Existing & projected hurdles & next steps
 
-It is fine to propose several possible research questions if you are unsure. Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before the presentation.
+It is fine to propose several possible research questions if you are unsure. Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the day of the presentation.
 
 #### Presentation format: early results
 
@@ -217,7 +217,7 @@ Early results should be presented in 10 minutes with 6 slides.
 + Slides 4 + 5 – Detailed presentation of the early results, with tables & graphs
 + Slide 6 – Existing research hurdles & next steps
 
-Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the day of the presentation.
 
 #### Presentation format: final results
 
@@ -228,7 +228,7 @@ Final results should be presented in 10 minutes with 6 slides.
 + Slides 3 + 4 + 5 – Detailed presentation of final theoretical & empirical & computational results, with tables & graphs
 + Slide 6 – Implications of the results, for instance for policy, & limitations
 
-Presentation slides must be written in LaTeX and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the day of the presentation.
 
 #### Format of the paper
 
@@ -239,7 +239,7 @@ Your research paper should be short and follow the guidelines:
 + Manuscripts must include an abstract of 150 or fewer words.
 + Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should typically be contained in the paper. This is the case when the proof itself provides insight into the paper's argument or when the method of proof is innovative.
 
-The research paper must be written in LaTeX, compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before the due date.
+The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the due date.
 
 ---
 
