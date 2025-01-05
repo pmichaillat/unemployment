@@ -122,7 +122,7 @@ Most Tuesday class meetings will be devoted to discussing readings.
 
 To lead the discussion, students will give 10-minute presentations that summarize the readings for the week. Each student will give two reading presentations during the quarter. The presentations will be scheduled one week in advance.
 
-Each presentation should have 6 slides addressing the following questions:
+Each presentation should have [6 slides addressing the following questions](https://github.com/pmichaillat/unemployment/blob/main/presentations/readings/template.pdf):
 
 1. CONTEXT: How does the paper relate to the lecture material? How does it contribute to the course material?
 2. QUESTION: What is the research question addressed by the paper?
@@ -183,7 +183,7 @@ You are welcome to work on any research question that you would like. If you are
 In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?id=10.1257/0002828053828572) estimates the fluctuations in unemployment and vacancies in the US, and simulates the fluctuations in a DMP model. In your research paper, you could:
 
 + Reproduce the estimation
-+ Reproduce the simulation
++ Reproduce the simulations
 + Redo the estimation or simulation using newer US data (Shimer stops in 2003) or older US data (Shimer starts in 1951, but [data are now available from 1930](https://github.com/pmichaillat/feru))
 + Redo the estimation in a different country
 + Redo the simulation by calibrating the DMP model for a different country
@@ -198,7 +198,7 @@ In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?i
 
 #### Presentation format: project outline
 
-The project outline should be presented in 10 minutes with 5 slides.
+The project outline should be [presented in 10 minutes with 5 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/projectoutlines/template.pdf).
 
 + Slide 1 – Research question: what are you asking in the project & why that matters
 + Slide 2 – Positioning: what we already know & what we do not yet know
@@ -210,7 +210,7 @@ It is fine to propose several possible research questions if you are unsure. Pre
 
 #### Presentation format: early results
 
-Early results should be presented in 10 minutes with 6 slides.
+Early results should be [presented in 10 minutes with 6 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/earlyresults/template.pdf).
 
 + Slide 1 – Rapid review the research question & project positioning
 + Slides 2 + 3 – Detailed presentation of the research methodology, including data & model
@@ -221,7 +221,7 @@ Presentation slides must be [written in LaTeX](#latex-resources) and compiled to
 
 #### Presentation format: final results
 
-Final results should be presented in 10 minutes with 6 slides.
+Final results should be [presented in 10 minutes with 6 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/finalresults/template.pdf).
 
 + Slide 1 – Review the research question & project positioning
 + Slide 2 – Review of the methodology, including data & model
