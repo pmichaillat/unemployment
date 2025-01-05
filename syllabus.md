@@ -127,8 +127,8 @@ Each presentation should have 6 slides addressing the following questions:
 1. CONTEXT: How does the paper relate to the lecture material? How does it contribute to the course material?
 2. QUESTION: What is the research question addressed by the paper?
 3. ANSWER: What are the main elements of the answer to the research question?
-4. POSITIONING: How does the material in the paper contribute to the previous  literature?
-5. ILLUSTRATION: Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
+4. ILLUSTRATION: Illustrate graphically the answer to the research question or an interesting mechanism discussed in the paper.
+5. POSITIONING: How does the material in the paper contribute to the previous  literature?
 6. CONCLUSION: What are the limitations of the answer provided in the paper? How could the answer be improved? What else would you have liked to know or learn on the topic?
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Slides should be submitted [to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the day of the presentation.
