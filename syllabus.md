@@ -247,13 +247,13 @@ The research paper must be [written in LaTeX](#latex-resources), compiled to a P
 
 Your grade will be based on the quality of the research project and your participation in various course activities. The contribution to the total grade of 100 points is as follows:
 
-+ Participation and general community building: 5 points
-+ Answers to section quizzes: 15 points
-+ Presentation of course reading: 20 points   
++ Participation and general community building: 10 points
++ Answers to section quizzes: 10 points
++ Presentations of course readings: 30 points   
 + Presentation of project outline: 10 points
 + Presentation of early results: 10 points
 + Presentation of final results: 10 points
-+ Final paper: 30 points
++ Final paper: 20 points
 
 Letter grades will be computed based on your total grade using a standard curve.
 
