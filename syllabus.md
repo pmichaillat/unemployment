@@ -120,7 +120,7 @@ The section quizzes are designed to help review and assimilate the content from 
 
 Most Tuesday class meetings will be devoted to discussing readings. 
 
-To lead the discussion, students will give 10-minute presentations that summarize the readings for the week. Each student will give two reading presentations during the quarter. The presentations will be scheduled one week in advance.
+To lead the discussion, students will give 10-minute presentations that summarize the readings for the week. Each student will give several presentations during the quarter (the exact number of presentations will depend on the enrollment). The presentations will be scheduled in advance.
 
 Each presentation should have [6 slides addressing the following questions](https://github.com/pmichaillat/unemployment/blob/main/presentations/readings/template.pdf):
 
