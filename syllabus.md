@@ -241,7 +241,7 @@ Your research paper should be short and follow the guidelines:
 
 The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the due date.
 
-Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo. Another way is to place all code and data to a folder, zip it, and email it to Ananyo. The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results.
+Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo. Another way is to place all code and data to a folder, zip it, and email it to Ananyo. The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code & data repository as a template: https://github.com/pmichaillat/feru.
 
 ---
 
@@ -255,7 +255,7 @@ Your grade will be based on the quality of the research project and your partici
 + Presentation of project outline: 10 points
 + Presentation of early results: 10 points
 + Presentation of final results: 10 points
-+ Final paper: 20 points
++ Final paper (including code & data): 20 points
 
 Letter grades will be computed based on your total grade using a standard curve.
 
