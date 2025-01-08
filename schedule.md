@@ -14,8 +14,7 @@
 
 + [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – This survey reviews the theoretical foundations of the matching function, its empirical properties, and its applications.
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – This survey reviews the empirical properties of the Beveridge curve and possible theoretical foundations for it.
-+ [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – This paper measures the US job-vacancy rate since 1951 by combining the Conference Board's help-wanted advertising index (available since 1951) with the BLS measure of job vacancies (available since 2001). Critically, the Conference Board's index is adjusted to account
-for the shift from print job advertising to online job advertising in the 1990s.
++ [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
 + [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – This paper combines various historical datasets to extend the BLS measure of US unemployment rate (which starts in 1948) and the Barnichon measure of US vacancy rate (which starts in 1951). The resulting measures of the US unemployment and vacancy rates go back to World War 1 (1919).
 + [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – This paper shows that in the United States, unemployment fluctuations are caused by fluctuations in the job-finding rate and not fluctuations in the job-separation rate.
 + [Michaillat and Saez (2024)](/16.pdf) – This paper combines data on unemployment and job vacancies to build a new recession rule. The rule detects all US recessions since 1929, without errors, and it detects them faster than well-known existing rules. The rule shows that the US economy may have entered a recession as early as March 2024.
@@ -36,7 +35,7 @@ for the shift from print job advertising to online job advertising in the 1990s.
 + [Akerlof (1984)](https://www.jstor.org/stable/1816334) – This survey reviews various theories of efficiency wages. These theories try to explain how firms set wages in practice. They consider the effect of wages on productivity, attachment to the firm, retention, hiring, and so on.
 + [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more
 rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
-+ [Raff and Summers (1987)](https://doi.org/10.1086/298165) – This paper examines Henry Ford's introduction of the five-dollar day in 1914 in his automobile factory. It argues that Ford's decision to increase wages dramatically is the consequence of labor problems of the kind featured in efficiency-wage theories. Moreover, it finds that the five-dollar day resulted in substantial queues for Ford jobs, significant increases in productivity, and maybe surprisingly, significant increases in profits.
++ [Raff and Summers (1987)](https://doi.org/10.1086/298165) – Casey Orton
 + [Mas (2006)](https://doi.org/10.1162/qjec.121.3.783) – This paper finds evidence in favor of efficiency-wage theories: when police officers receive a wage below what they consider a fair wage, they are disappointed, and their performance on the job drops. This finding confirms that fairness might be an important source of wage rigidity.
 
 ## Tuesday 11 February
@@ -62,7 +61,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 ## Tuesday 25 February
 
 + [Michaillat and Saez (2021)](/9.pdf) – This paper derives sufficient-statistic formulas for efficient labor market tightness and efficient unemployment rate. It applies the formulas to the United States and finds that the US labor market is generally inefficiently slack, and especially inefficiently slack in slumps.
-+ [Michaillat and Saez (2024)](/13.pdf) – This paper shows that under simple but realistic assumptions, the sufficient-statistic formula for the efficient unemployment rate from Michaillat and Saez (2021) reduces to $u^\ast = \sqrt{uv}$. This unemployment rate marks not only social efficiency but also full employment. In the United States, 1930–2024, the full-employment rate of unemployment (FERU) $u^\ast$ averages 4.1%.
++ [Michaillat and Saez (2024)](/13.pdf) – Casey Orton
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – This survey describes the sufficient-statistic method for welfare and policy analysis.
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – This essay discusses various definitions of full employment and explains why full employment does not mean zero unemployment.
