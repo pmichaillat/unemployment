@@ -15,7 +15,7 @@
 + [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – This survey reviews the theoretical foundations of the matching function, its empirical properties, and its applications.
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – This survey reviews the empirical properties of the Beveridge curve and possible theoretical foundations for it.
 + [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
-+ [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – This paper combines various historical datasets to extend the BLS measure of US unemployment rate (which starts in 1948) and the Barnichon measure of US vacancy rate (which starts in 1951). The resulting measures of the US unemployment and vacancy rates go back to World War 1 (1919).
++ [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – Matthew Choi
 + [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – This paper shows that in the United States, unemployment fluctuations are caused by fluctuations in the job-finding rate and not fluctuations in the job-separation rate.
 + [Michaillat and Saez (2024)](/16.pdf) – This paper combines data on unemployment and job vacancies to build a new recession rule. The rule detects all US recessions since 1929, without errors, and it detects them faster than well-known existing rules. The rule shows that the US economy may have entered a recession as early as March 2024.
 
@@ -36,7 +36,7 @@
 + [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more
 rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
 + [Raff and Summers (1987)](https://doi.org/10.1086/298165) – Casey Orton
-+ [Mas (2006)](https://doi.org/10.1162/qjec.121.3.783) – This paper finds evidence in favor of efficiency-wage theories: when police officers receive a wage below what they consider a fair wage, they are disappointed, and their performance on the job drops. This finding confirms that fairness might be an important source of wage rigidity.
++ [Mas (2006)](https://doi.org/10.1162/qjec.121.3.783) – Matthew Choi
 
 ## Tuesday 11 February
 
@@ -50,7 +50,7 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 
 ## Tuesday 18 February
 
-+ [Michaillat (2012)](/1.pdf) – This paper first establishes that the DMP model does not have job rationing and then develops a matching model with job rationing. The job-rationing model departs from the DMP model by assuming that the production has diminishing returns to labor instead of constant returns to labor, and that the real wage is given by a rigid wage norm instead of Nash bargaining. In that model unemployment can be decomposed into rationing and frictional components. In recessions, the rationing component is large while the frictional component is small.
++ [Michaillat (2012)](/1.pdf) – Matthew Choi
 + [Crepon, Duflo, Gurgand, Rathelot, and Zamora (2013)](https://doi.org/10.1093/qje/qjt001) – This paper reports the results from a randomized experiment designed to evaluate the direct and indirect effects of job-placement assistance on the labor market outcomes of young educated jobseekers in France. It finds that jobseekers who are given job-placement assistance find jobs more rapidly, while jobseekers in the same labor market who are not assisted take longer to find a job. This finding suggests that jobs are somewhat rationed, and that assisted jobseekers move ahead of non-assisted jobseekers in job queues. The spillovers of job-placement assistance are particularly strong in bad times, when jobs are scarcer.
 + [Akerlof, Rose, and Yellen (1988)](https://www.jstor.org/stable/2534536) – This paper develops an early matching model of the labor market with job
 rationing. The model reproduces a number of stylized facts of the US labor market regarding quits and vacancy chains. While the model in not in the DMP tradition, it does feature a Beveridge curve.
