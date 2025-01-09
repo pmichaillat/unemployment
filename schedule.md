@@ -17,11 +17,11 @@
 + [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
 + [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – Matthew Choi
 + [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – This paper shows that in the United States, unemployment fluctuations are caused by fluctuations in the job-finding rate and not fluctuations in the job-separation rate.
-+ [Michaillat and Saez (2024)](/16.pdf) – This paper combines data on unemployment and job vacancies to build a new recession rule. The rule detects all US recessions since 1929, without errors, and it detects them faster than well-known existing rules. The rule shows that the US economy may have entered a recession as early as March 2024.
++ [Michaillat and Saez (2024)](/16.pdf) – Amishi Chokshi
 
 ## Tuesday 28 January
 
-+ [Kuhn (1957, chapters 1 and 5)](https://www.hup.harvard.edu/catalog.php?isbn=9780674171039) – This book studies the Copernican Revolution in astronomy and in the process isolates the three properties of a good model: economy, accuracy, and fruitfulness.
++ [Kuhn (1957, chapters 1 and 5)](https://www.hup.harvard.edu/catalog.php?isbn=9780674171039) – Amishi Chokshi
 + [Pissarides (2001, chapter 1)](https://mitpress.mit.edu/9780262533980/equilibrium-unemployment-theory/) – This chapter introduces the canonical version of the matching model of the labor market (the DMP model).
 + [Rogerson, Shimer, and Wright (2005)](https://doi.org/10.1257/002205105775362014) – This survey reviews a range of search and matching models.
 + [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – In this Nobel lecture, Christopher Pissarides presents the history of the DMP model. He also discusses several applications of the model.
@@ -32,7 +32,7 @@
 
 + [Bewley (2005)](https://doi.org/10.7551/mitpress/4771.003.0017) – Gaspard Avat
 + [Haefke, Sonntag, and Van Rens (2013)](https://doi.org/10.1016/j.jmoneco.2013.09.003) – This paper estimates that the real wages of new hires are somewhat rigid. The elasticity  of real wages with respect to productivity is between 0.7 and 0.8, so less than 1.
-+ [Akerlof (1984)](https://www.jstor.org/stable/1816334) – This survey reviews various theories of efficiency wages. These theories try to explain how firms set wages in practice. They consider the effect of wages on productivity, attachment to the firm, retention, hiring, and so on.
++ [Akerlof (1984)](https://www.jstor.org/stable/1816334) – Amishi Chokshi
 + [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more
 rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
 + [Raff and Summers (1987)](https://doi.org/10.1086/298165) – Casey Orton
