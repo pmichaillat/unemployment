@@ -16,7 +16,7 @@
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – This survey reviews the empirical properties of the Beveridge curve and possible theoretical foundations for it.
 + [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
 + [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – Matthew Choi
-+ [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – This paper shows that in the United States, unemployment fluctuations are caused by fluctuations in the job-finding rate and not fluctuations in the job-separation rate.
++ [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – Thayer Doyle
 + [Michaillat and Saez (2024)](/16.pdf) – Amishi Chokshi
 
 ## Tuesday 28 January
