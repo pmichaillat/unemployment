@@ -24,7 +24,7 @@
 + [Kuhn (1957, chapters 1 and 5)](https://www.hup.harvard.edu/catalog.php?isbn=9780674171039) – Amishi Chokshi
 + [Pissarides (2001, chapter 1)](https://mitpress.mit.edu/9780262533980/equilibrium-unemployment-theory/) – This chapter introduces the canonical version of the matching model of the labor market (the DMP model).
 + [Rogerson, Shimer, and Wright (2005)](https://doi.org/10.1257/002205105775362014) – This survey reviews a range of search and matching models.
-+ [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – In this Nobel lecture, Christopher Pissarides presents the history of the DMP model. He also discusses several applications of the model.
++ [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – Charles Simons
 + [Mortensen (2011)](https://doi.org/10.1257/aer.101.4.1073) – Thayer Doyle
 + [Michaillat (2024)](/14.pdf) – Matt Ramos
 
@@ -62,7 +62,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Michaillat and Saez (2021)](/9.pdf) – This paper derives sufficient-statistic formulas for efficient labor market tightness and efficient unemployment rate. It applies the formulas to the United States and finds that the US labor market is generally inefficiently slack, and especially inefficiently slack in slumps.
 + [Michaillat and Saez (2024)](/13.pdf) – Casey Orton
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
-+ [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – This survey describes the sufficient-statistic method for welfare and policy analysis.
++ [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – Charles Simons
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Tuong Van
 + [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – This paper uses the formula $u^\ast = \sqrt{uv}$ to compute the FERUs in selected European countries (Germany, Sweden, Austria, Finland, UK) between 1970 and 2022. It compares the FERUs and unemployment gaps in Europe to those in the United States.
 
@@ -74,7 +74,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
 + [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – This paper describes public employment in the United States during the First New Deal and Second New Deal. It then documents the effect of public employment on the private labor market, unearthing evidence of crowding out of private employment by public employment. 
-+ [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – This paper finds that in a large number of Organization for Economic Cooperation and Development (OECD) countries, government multipliers are larger in recessions than in expansions.
++ [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – Charles Simons
 
 ## Tuesday 11 March
 
