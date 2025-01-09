@@ -3,7 +3,7 @@
 
 ## Tuesday 14 January
 
-+ [Darity and Goldsmith (1996)](https://doi.org/10.1257/jep.10.1.121) –  This survey reviews the psychosocial consequences of unemployment. It finds that exposure to unemployment severely damages psychological health. One reason is that joblessness creates a sense of helplessness: that one's life is no longer under their control. Furthermore, numerous benefits of work are lost during unemployment, including a structured daily routine, regular interactions and shared experiences with others, a sense of purpose and a source of personal status and identity. 
++ [Darity and Goldsmith (1996)](https://doi.org/10.1257/jep.10.1.121) –  Thayer Doyle
 + [Frey and Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – This survey provides evidence that personal unemployment and aggregate unemployment significantly reduce happiness. The evidence refers to the pure effect of unemployment, which controls for the income loss from unemployment.
 + [Di Tella, MacCulloch, and Oswald (2003)](https://doi.org/10.1162/003465303772815745) – This paper finds in well-being surveys conducted in Europe and the United States that unemployment make people unhappy. Being unemployed makes you unhappy, and having unemployment in your country makes you unhappy. In fact, after controlling for income and other personal characteristics, becoming unemployed appears as painful as divorcing.
 + [Winkelmann and Winkelmann (1998)](https://www.jstor.org/stable/2555127) – This paper uses panel data from Germany to show that unemployment causes unhappiness (and not the other way around). It finds that unemployment significantly reduces life satisfaction, and that the non-pecuniary cost of unemployment is much larger than the pecuniary cost.
@@ -25,7 +25,7 @@
 + [Pissarides (2001, chapter 1)](https://mitpress.mit.edu/9780262533980/equilibrium-unemployment-theory/) – This chapter introduces the canonical version of the matching model of the labor market (the DMP model).
 + [Rogerson, Shimer, and Wright (2005)](https://doi.org/10.1257/002205105775362014) – This survey reviews a range of search and matching models.
 + [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – In this Nobel lecture, Christopher Pissarides presents the history of the DMP model. He also discusses several applications of the model.
-+ [Mortensen (2011)](https://doi.org/10.1257/aer.101.4.1073) – In this Nobel lecture, Dale Mortensen presents a brief history of the DMP model and a basic version of the model. He then discusses how the model can help understand the Great Recession of 2008–2009.
++ [Mortensen (2011)](https://doi.org/10.1257/aer.101.4.1073) – Thayer Doyle
 + [Michaillat (2024)](/14.pdf) – This paper develops a basic matching model of the labor market and uses it to study the impact of immigration on local workers. The model and its presentation are similar to those in the course. The paper highlights how different assumptions alter the effects of immigration in the model. The paper shows that despite its simplicity, the model developed in the course is helpful to understand contemporary economic and political issues.
 
 ## Tuesday 4 February
