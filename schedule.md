@@ -5,7 +5,7 @@
 
 + [Darity and Goldsmith (1996)](https://doi.org/10.1257/jep.10.1.121) –  Thayer Doyle
 + [Frey and Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – This survey provides evidence that personal unemployment and aggregate unemployment significantly reduce happiness. The evidence refers to the pure effect of unemployment, which controls for the income loss from unemployment.
-+ [Di Tella, MacCulloch, and Oswald (2003)](https://doi.org/10.1162/003465303772815745) – This paper finds in well-being surveys conducted in Europe and the United States that unemployment make people unhappy. Being unemployed makes you unhappy, and having unemployment in your country makes you unhappy. In fact, after controlling for income and other personal characteristics, becoming unemployed appears as painful as divorcing.
++ [Di Tella, MacCulloch, and Oswald (2003)](https://doi.org/10.1162/003465303772815745) – Tuong Van
 + [Winkelmann and Winkelmann (1998)](https://www.jstor.org/stable/2555127) – This paper uses panel data from Germany to show that unemployment causes unhappiness (and not the other way around). It finds that unemployment significantly reduces life satisfaction, and that the non-pecuniary cost of unemployment is much larger than the pecuniary cost.
 + [Borgschulte and Martorell (2018)](https://doi.org/10.1257/app.20160257) – Gaspard Avat
 + [Hussam, Kelley, Lane, and Zahra (2022)](https://doi.org/10.1257/aer.20211616) – This paper reports the results from a field experiment in Bangladesh designed to measure the psychosocial cost of unemployment. The experiment shows that paid employment raises psychosocial well-being substantially more than the same amount of cash alone. In fact, two-thirds of employed workers would be willing to forgo cash payments and continue working for free. The experiment illustrates just how large the psychosocial cost of unemployment is.
@@ -64,7 +64,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Michaillat and Saez (2024)](/13.pdf) – Casey Orton
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – This survey describes the sufficient-statistic method for welfare and policy analysis.
-+ [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – This essay discusses various definitions of full employment and explains why full employment does not mean zero unemployment.
++ [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Tuong Van
 + [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – This paper uses the formula $u^\ast = \sqrt{uv}$ to compute the FERUs in selected European countries (Germany, Sweden, Austria, Finland, UK) between 1970 and 2022. It compares the FERUs and unemployment gaps in Europe to those in the United States.
 
 
@@ -72,7 +72,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 
 + [Michaillat (2014)](/2.pdf) – This paper establishes that in a matching model with job rationing, the public-employment multiplier is positive but less than one, and the multiplier is larger when the unemployment rate is higher. These predictions are consistent with a growing body of evidence from the United States and abroad.
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Gaspard Avat
-+ [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – This survey assesses the effectiveness of various active labor market policies: policies designed to improve labor market outcomes of jobseekers. Policies covered include job-search assistance (to stimulate labor supply) and job subsidies (to stimulate labor demand). The survey highlights spillovers from such policies. Job-search assistance is not found to be very effective, which is unsurprising in a world with job rationing. Job subsidies are found to be moderately effective.
++ [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – This survey reviews evidence on the effects of the minimum wage on employment in the United States. Overall, the evidence points toward negative effects of minimum wages on employment of less-skilled workers.
 + [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – This paper describes public employment in the United States during the First New Deal and Second New Deal. It then documents the effect of public employment on the private labor market, unearthing evidence of crowding out of private employment by public employment. 
 + [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – This paper finds that in a large number of Organization for Economic Cooperation and Development (OECD) countries, government multipliers are larger in recessions than in expansions.
