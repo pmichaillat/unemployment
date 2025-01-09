@@ -8,7 +8,7 @@
 + [Di Tella, MacCulloch, and Oswald (2003)](https://doi.org/10.1162/003465303772815745) – Tuong Van
 + [Winkelmann and Winkelmann (1998)](https://www.jstor.org/stable/2555127) – This paper uses panel data from Germany to show that unemployment causes unhappiness (and not the other way around). It finds that unemployment significantly reduces life satisfaction, and that the non-pecuniary cost of unemployment is much larger than the pecuniary cost.
 + [Borgschulte and Martorell (2018)](https://doi.org/10.1257/app.20160257) – Gaspard Avat
-+ [Hussam, Kelley, Lane, and Zahra (2022)](https://doi.org/10.1257/aer.20211616) – This paper reports the results from a field experiment in Bangladesh designed to measure the psychosocial cost of unemployment. The experiment shows that paid employment raises psychosocial well-being substantially more than the same amount of cash alone. In fact, two-thirds of employed workers would be willing to forgo cash payments and continue working for free. The experiment illustrates just how large the psychosocial cost of unemployment is.
++ [Hussam, Kelley, Lane, and Zahra (2022)](https://doi.org/10.1257/aer.20211616) – Oscar Lin Tan
 
 ## Tuesday 21 January
 
@@ -33,8 +33,7 @@
 + [Bewley (2005)](https://doi.org/10.7551/mitpress/4771.003.0017) – Gaspard Avat
 + [Haefke, Sonntag, and Van Rens (2013)](https://doi.org/10.1016/j.jmoneco.2013.09.003) – Matt Ramos
 + [Akerlof (1984)](https://www.jstor.org/stable/1816334) – Amishi Chokshi
-+ [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more
-rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
++ [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – Oscar Lin Tan
 + [Raff and Summers (1987)](https://doi.org/10.1086/298165) – Casey Orton
 + [Mas (2006)](https://doi.org/10.1162/qjec.121.3.783) – Matthew Choi
 
@@ -73,7 +72,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Michaillat (2014)](/2.pdf) – This paper establishes that in a matching model with job rationing, the public-employment multiplier is positive but less than one, and the multiplier is larger when the unemployment rate is higher. These predictions are consistent with a growing body of evidence from the United States and abroad.
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Gaspard Avat
 + [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
-+ [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – This survey reviews evidence on the effects of the minimum wage on employment in the United States. Overall, the evidence points toward negative effects of minimum wages on employment of less-skilled workers.
++ [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
 + [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – This paper describes public employment in the United States during the First New Deal and Second New Deal. It then documents the effect of public employment on the private labor market, unearthing evidence of crowding out of private employment by public employment. 
 + [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – This paper finds that in a large number of Organization for Economic Cooperation and Development (OECD) countries, government multipliers are larger in recessions than in expansions.
 
