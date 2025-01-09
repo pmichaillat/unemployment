@@ -26,12 +26,12 @@
 + [Rogerson, Shimer, and Wright (2005)](https://doi.org/10.1257/002205105775362014) – This survey reviews a range of search and matching models.
 + [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – In this Nobel lecture, Christopher Pissarides presents the history of the DMP model. He also discusses several applications of the model.
 + [Mortensen (2011)](https://doi.org/10.1257/aer.101.4.1073) – Thayer Doyle
-+ [Michaillat (2024)](/14.pdf) – This paper develops a basic matching model of the labor market and uses it to study the impact of immigration on local workers. The model and its presentation are similar to those in the course. The paper highlights how different assumptions alter the effects of immigration in the model. The paper shows that despite its simplicity, the model developed in the course is helpful to understand contemporary economic and political issues.
++ [Michaillat (2024)](/14.pdf) – Matt Ramos
 
 ## Tuesday 4 February
 
 + [Bewley (2005)](https://doi.org/10.7551/mitpress/4771.003.0017) – Gaspard Avat
-+ [Haefke, Sonntag, and Van Rens (2013)](https://doi.org/10.1016/j.jmoneco.2013.09.003) – This paper estimates that the real wages of new hires are somewhat rigid. The elasticity  of real wages with respect to productivity is between 0.7 and 0.8, so less than 1.
++ [Haefke, Sonntag, and Van Rens (2013)](https://doi.org/10.1016/j.jmoneco.2013.09.003) – Matt Ramos
 + [Akerlof (1984)](https://www.jstor.org/stable/1816334) – Amishi Chokshi
 + [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more
 rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
