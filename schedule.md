@@ -4,15 +4,15 @@
 ## Tuesday 14 January
 
 + [Darity and Goldsmith (1996)](https://doi.org/10.1257/jep.10.1.121) –  Thayer Doyle
-+ [Frey and Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – This survey provides evidence that personal unemployment and aggregate unemployment significantly reduce happiness. The evidence refers to the pure effect of unemployment, which controls for the income loss from unemployment.
++ [Frey and Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – Jumur Jamal
 + [Di Tella, MacCulloch, and Oswald (2003)](https://doi.org/10.1162/003465303772815745) – Tuong Van
-+ [Winkelmann and Winkelmann (1998)](https://www.jstor.org/stable/2555127) – This paper uses panel data from Germany to show that unemployment causes unhappiness (and not the other way around). It finds that unemployment significantly reduces life satisfaction, and that the non-pecuniary cost of unemployment is much larger than the pecuniary cost.
++ [Winkelmann and Winkelmann (1998)](https://www.jstor.org/stable/2555127) – Jacob Richardson
 + [Borgschulte and Martorell (2018)](https://doi.org/10.1257/app.20160257) – Gaspard Avat
 + [Hussam, Kelley, Lane, and Zahra (2022)](https://doi.org/10.1257/aer.20211616) – Oscar Lin Tan
 
 ## Tuesday 21 January
 
-+ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – This survey reviews the theoretical foundations of the matching function, its empirical properties, and its applications.
++ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – Jumur Jamal
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – This survey reviews the empirical properties of the Beveridge curve and possible theoretical foundations for it.
 + [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
 + [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – Matthew Choi
@@ -39,7 +39,7 @@
 
 ## Tuesday 11 February
 
-+ [Shimer (2005)](https://doi.org/10.1257/0002828053828572) – This paper shows that the canonical matching model of the labor market (the DMP model) cannot generate realistic fluctuations in unemployment and vacancies. This anomaly of the DMP model is known as the Shimer puzzle. The reason behind the Shimer puzzle is that the wage bargaining protocol assumed in the DMP model—Nash bargaining—produces wages that are too flexible. 
++ [Shimer (2005)](https://doi.org/10.1257/0002828053828572) – Jumur Jamal
 + [Hall (2005)](https://doi.org/10.1257/0002828053828482) – Matt Ramos
 + [Hagedorn and Manovskii (2008)](https://doi.org/10.1257/aer.98.4.1692) – This paper shows that if workers are almost indifferent between working and not working, then the DMP model can generate realistic fluctuations in unemployment and vacancies. A downside of this assumption, however, is that it is completely inconsistent with the large psychosocial cost of unemployment documented at the beginning of the course. Another downside is that it implies that the socially efficient rate of unemployment is above 20%.
 + [Hall and Milgrom (2008)](https://doi.org/10.1257/aer.98.4.1653) – This paper proposes a form of wage bargaining that produces somewhat-rigid wages. With such wage rigidity, the matching model generates realistic fluctuations in unemployment and vacancies.
@@ -59,7 +59,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 
 ## Tuesday 25 February
 
-+ [Michaillat and Saez (2021)](/9.pdf) – This paper derives sufficient-statistic formulas for efficient labor market tightness and efficient unemployment rate. It applies the formulas to the United States and finds that the US labor market is generally inefficiently slack, and especially inefficiently slack in slumps.
++ [Michaillat and Saez (2021)](/9.pdf) – Jacob Richardson
 + [Michaillat and Saez (2024)](/13.pdf) – Casey Orton
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – Charles Simons
@@ -73,7 +73,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Gaspard Avat
 + [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
-+ [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – This paper describes public employment in the United States during the First New Deal and Second New Deal. It then documents the effect of public employment on the private labor market, unearthing evidence of crowding out of private employment by public employment. 
++ [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – Jacob Richardson 
 + [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – Charles Simons
 
 ## Tuesday 11 March
