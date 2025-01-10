@@ -65,8 +65,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – Charles Simons
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Tuong Van
 + [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – This paper uses the formula $u^\ast = \sqrt{uv}$ to compute the FERUs in selected European countries (Germany, Sweden, Austria, Finland, UK) between 1970 and 2022. It compares the FERUs and unemployment gaps in Europe to those in the United States.
-
-
+	
 ## Tuesday 4 March
 
 + [Michaillat (2014)](/2.pdf) – This paper establishes that in a matching model with job rationing, the public-employment multiplier is positive but less than one, and the multiplier is larger when the unemployment rate is higher. These predictions are consistent with a growing body of evidence from the United States and abroad.
@@ -75,12 +74,3 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
 + [Neumann, Fishback, and Kantor (2010)](https://www.jstor.org/stable/25654074) – Jacob Richardson 
 + [Auerbach and Gorodnichenko (2013)](https://www.nber.org/chapters/c12634) – Charles Simons
-
-## Tuesday 11 March
-
-+ [Landais, Michaillat, and Saez (2018a)](/4.pdf) – This paper studies optimal unemployment insurance in a matching model and obtains a sufficient-statistic formula for optimal unemployment insurance.
-+ [Landais, Michaillat, and Saez (2018b)](/5.pdf) – This paper applies the sufficient-statistic formula from Landais, Michaillat, and Saez (2018a) to the United States and finds that optimal unemployment insurance is countercyclical—more generous in bad times than in good times.
-+ [Chetty (2006)](https://doi.org/10.1016/j.jpubeco.2006.01.004) – This paper studies optimal unemployment insurance in a model with fixed tightness and derives the Baily-Chetty formula.
-+ [Lalive, Landais, and Zweimueller (2015)](https://doi.org/10.1257/aer.20131273) – This paper uses a natural experiment in Austria to measure the response of labor market tightness to unemployment insurance. The experiment consists of an increase in benefit duration from 52 to 209 weeks for eligible unemployed workers in a subset of regions. Ineligible unemployed workers in treated labor markets experienced significantly lower unemployment duration, which implies that labor market tightness rose in treated labor markets. 
-+ [Marinescu (2017)](https://doi.org/10.1016/j.jpubeco.2017.02.012) – This paper examines how the tripling of the duration of unemployment benefits during the Great Recession impacted the US labor market. It finds that the number of job applications fell while the number of job openings remained that same. Therefore, labor market tightness (the ratio of job openings to job applications) increased when unemployment insurance became more generous.
-+ [Dieterle, Bartalotti, and Brummet (2020)](https://doi.org/10.1257/pol.20160439) – This paper shows substantial spillovers across US states when one state changes the duration of its unemployment insurance benefits and the other does not. In particular, workers from the low-benefit state flock to the high-benefit state, suggesting increased job-finding rates and thus increased labor market tightness in the high-benefit state.
