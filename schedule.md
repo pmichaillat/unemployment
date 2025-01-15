@@ -41,7 +41,7 @@
 
 + [Shimer (2005)](https://doi.org/10.1257/0002828053828572) – Jumur Jamal
 + [Hall (2005)](https://doi.org/10.1257/0002828053828482) – Matt Ramos
-+ [Hagedorn and Manovskii (2008)](https://doi.org/10.1257/aer.98.4.1692) – This paper shows that if workers are almost indifferent between working and not working, then the DMP model can generate realistic fluctuations in unemployment and vacancies. A downside of this assumption, however, is that it is completely inconsistent with the large psychosocial cost of unemployment documented at the beginning of the course. Another downside is that it implies that the socially efficient rate of unemployment is above 20%.
++ [Hagedorn and Manovskii (2008)](https://doi.org/10.1257/aer.98.4.1692) – Bodi Dallas
 + [Hall and Milgrom (2008)](https://doi.org/10.1257/aer.98.4.1653) – This paper proposes a form of wage bargaining that produces somewhat-rigid wages. With such wage rigidity, the matching model generates realistic fluctuations in unemployment and vacancies.
 + [Blanchard and Gali (2010)](https://doi.org/10.1257/mac.2.2.1) – This paper blends the matching model of the labor market with a New Keynesian model of the product market. It then shows that under wage bargaining, unemployment and vacancies do not fluctuate at all in the model. This is a strong form of the Shimer puzzle. By contrast, when the real wage is a subproportional function of labor productivity, the model generates realistic fluctuations in unemployment and vacancies.
 + [Eliaz and Spiegler (2013)](https://doi.org/10.1086/674596) – This paper insert reference-dependent preferences into a matching model. Because of these preferences, wage cuts relative to a reference point make workers feel that they have been treated
@@ -51,8 +51,7 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 
 + [Michaillat (2012)](/1.pdf) – Matthew Choi
 + [Crepon, Duflo, Gurgand, Rathelot, and Zamora (2013)](https://doi.org/10.1093/qje/qjt001) – This paper reports the results from a randomized experiment designed to evaluate the direct and indirect effects of job-placement assistance on the labor market outcomes of young educated jobseekers in France. It finds that jobseekers who are given job-placement assistance find jobs more rapidly, while jobseekers in the same labor market who are not assisted take longer to find a job. This finding suggests that jobs are somewhat rationed, and that assisted jobseekers move ahead of non-assisted jobseekers in job queues. The spillovers of job-placement assistance are particularly strong in bad times, when jobs are scarcer.
-+ [Akerlof, Rose, and Yellen (1988)](https://www.jstor.org/stable/2534536) – This paper develops an early matching model of the labor market with job
-rationing. The model reproduces a number of stylized facts of the US labor market regarding quits and vacancy chains. While the model in not in the DMP tradition, it does feature a Beveridge curve.
++ [Akerlof, Rose, and Yellen (1988)](https://www.jstor.org/stable/2534536) – Bodi Dallas
 + [Michaillat and Saez (2015)](/3.pdf) – This paper adds aggregate demand to the model in Michaillat (2012). This is done by adding a product market to the labor market with a similar matching structure. Aggregate demand shocks generate fluctuations in unemployment and vacancies along the Beveridge curve. In that model, unemployment can be decomposed into three components: Keynesian unemployment (due to insufficient aggregate demand), classical unemployment (due to high real wages), and frictional unemployment (due to matching frictions).
 + [Michaillat and Saez (2022)](/7.pdf) –  This paper builds a dynamic version of the model in Michaillat and Saez (2015), which is static. In this model the central bank can influence aggregate demand and unemployment through interest rates.
 + [Michaillat and Saez (2024)](/15.pdf) – This paper uses the dynamic model in Michaillat and Saez (2022) and generates a Phillips curve by introducing price competition through directed search. To ensure that unemployment fluctuates, the model assumes price rigidity through quadratic price-adjustment costs. The Phillips curve produced by the model guarantees divine coincidence: inflation is on target when unemployment is efficient.
@@ -68,7 +67,7 @@ rationing. The model reproduces a number of stylized facts of the US labor marke
 	
 ## Tuesday 4 March
 
-+ [Michaillat (2014)](/2.pdf) – This paper establishes that in a matching model with job rationing, the public-employment multiplier is positive but less than one, and the multiplier is larger when the unemployment rate is higher. These predictions are consistent with a growing body of evidence from the United States and abroad.
++ [Michaillat (2014)](/2.pdf) – Bodi Dallas
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Gaspard Avat
 + [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
