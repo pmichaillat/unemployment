@@ -1,0 +1,77 @@
+\documentclass{beamer} % For presentations, the document class is beamer. 
+\usepackage{presentation} % This style file uses Prof. Pascal Michaillat's minimalist template. Be sure to keep this in the same directory.
+\usepackage{amsmath} % needed for mathematical typesetting
+\usepackage{amssymb} % needed for math symbols
+
+\title{Econ 182: Example} % Title of your presentation
+\author{Ananyo Brahma} % Author names go here
+\date{Jan 17, 2025} % Can put whatever date you want here or \today
+
+% Contents of the document you create go inside \begin{document} and \end{document}. The document is an environment.
+\begin{document}
+\maketitle % This will create the title slide.
+
+% Each slide is called a frame in Beamer.
+\begin{frame}{Slide Title} % The slide title goes inside curly braces.
+    \begin{itemize} % This itemize environment is used for bullet points.
+        \item This is the first bullet point in the first slide.
+        \item You can also have a nested \texttt{itemize} environment.
+        \begin{itemize}
+            \item This is a nested bullet point.
+        \end{itemize}
+        \item We can also have numbered lists using \texttt{enumerate}.
+        \begin{enumerate}
+            \item Apple 
+            \item Baseball
+        \end{enumerate}
+    \end{itemize}
+\end{frame}
+
+% Create the second slide.
+\begin{frame}{Slide with figure}
+    \begin{figure}
+        \centering % This centers the image within the figure environment.
+        \includegraphics[scale=0.2]{week-2/labor_market_macroeconomic_theory2-aa2559dd58a24a5db7231cec3fbd3ef4.png} % Make sure you give the right destination for the image you use. It is often easiest to put the image in the same directory your .tex file is in.
+        \caption{Competitive Labor Market Equilibrium} % Caption for the figure
+    \end{figure}
+\end{frame}
+
+\begin{frame}{Slide with table}
+    \begin{table}[]
+        \centering
+        \begin{tabular}{c|c|c} % c is a column type in LaTeX that tells LaTeX you want it to be centered. You can use l for left alignment, r for right alignment, and p if you want a specific width. The | draws a vertical line.
+           Country  &  Unemployment rate & GDP \\\hline % The \\ tells LaTeX that the line (row) is ending here. The \hline after it draws a horizontal line. The & is a delimiter that tells LaTeX to move to the next column.
+            US & 6\% & \\ % Since % is used for comments, the \ before % tells LaTeX to render a % symbol and not treat it is a comment.
+            South Korea & & \\
+            Japan & & \\
+        \end{tabular}
+        \caption{Table title}
+    \end{table}
+\end{frame}
+
+\begin{frame}{Formatting/Other stuff}
+    \begin{itemize}
+        \item This is \textbf{bold} text. % For bold text, enclose the text in \textbf{}.
+        \item This is \textit{italicized} text. % For italicized text, enclose the text in \textit{}.
+        \item This is \underline{underlined} text. % For underlined text, enclose the text in \underline{}.
+        \item This is a \href{https://github.com/pmichaillat/unemployment/discussions}{link} to the discussions on GitHub. % This links to the GitHub discussions. The first argument is the link and the second is the text that links to the webpage.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Equations}
+    \begin{equation} % The equation environment numbers the equation and stores this number in memory. The next equation will be labeled (2).
+        Y = \alpha + \beta X + \epsilon
+    \end{equation}
+    \begin{equation*} % The equation* environment will not number the equation.
+        \frac{3}{6} = \frac{1}{2}
+    \end{equation*}
+    \begin{equation} 
+        a_1^n + a_2^n = a_3^n % The _ is for subscript and the ^ is for superscript.
+    \end{equation}
+    \begin{equation}
+        \int_0^\infty f(x) dx % Here, the _ is for the lower limit and ^ is for the upper limit.
+    \end{equation}
+    You can also have math inline by using dollar signs: $2x + 1 = 0$. 
+\end{frame}
+
+\end{document}
