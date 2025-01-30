@@ -33,7 +33,7 @@
 + [Bewley (2005)](https://doi.org/10.7551/mitpress/4771.003.0017) – Gaspard Avat
 + [Haefke, Sonntag, and Van Rens (2013)](https://doi.org/10.1016/j.jmoneco.2013.09.003) – Matt Ramos
 + [Akerlof (1984)](https://www.jstor.org/stable/1816334) – Amishi Chokshi
-+ [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – Oscar Lin Tan
++ [Jacoby (1984)](https://mitpress.mit.edu/9780262651059/internal-labor-markets/) – This chapter analyzes the development of internal labor markets in American manufacturing firms. It explains how internal labor markets replaced spot labor markets, and how such replacement provided workers with an employment system that was more bureaucratic, more rule-bound, and more secure. In particular, wages paid to workers were much more rigid in internal labor markets.
 + [Raff and Summers (1987)](https://doi.org/10.1086/298165) – Casey Orton
 + [Mas (2006)](https://doi.org/10.1162/qjec.121.3.783) – Matthew Choi
 
@@ -42,7 +42,7 @@
 + [Shimer (2005)](https://doi.org/10.1257/0002828053828572) – Jumur Jamal
 + [Hall (2005)](https://doi.org/10.1257/0002828053828482) – Matt Ramos
 + [Hagedorn and Manovskii (2008)](https://doi.org/10.1257/aer.98.4.1692) – Bodi Dallas
-+ [Hall and Milgrom (2008)](https://doi.org/10.1257/aer.98.4.1653) – This paper proposes a form of wage bargaining that produces somewhat-rigid wages. With such wage rigidity, the matching model generates realistic fluctuations in unemployment and vacancies.
++ [Hall and Milgrom (2008)](https://doi.org/10.1257/aer.98.4.1653) – Oscar Lin Tan
 + [Blanchard and Gali (2010)](https://doi.org/10.1257/mac.2.2.1) – This paper blends the matching model of the labor market with a New Keynesian model of the product market. It then shows that under wage bargaining, unemployment and vacancies do not fluctuate at all in the model. This is a strong form of the Shimer puzzle. By contrast, when the real wage is a subproportional function of labor productivity, the model generates realistic fluctuations in unemployment and vacancies.
 + [Eliaz and Spiegler (2013)](https://doi.org/10.1086/674596) – This paper insert reference-dependent preferences into a matching model. Because of these preferences, wage cuts relative to a reference point make workers feel that they have been treated
 unfairly, which dampens their intrinsic motivation and reduces their output. As a result, firms avoid cutting wages. Because wages are rigid downward, unemployment and vacancies respond more to shocks than under Nash bargaining.
