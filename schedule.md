@@ -49,7 +49,7 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 
 ## Tuesday 18 February
 
-+ [Michaillat (2012)](/1.pdf) – Matthew Choi
++ [Michaillat (2012)](/1.pdf) – This paper first establishes that the DMP model does not have job rationing and then develops a matching model with job rationing. The job-rationing model departs from the DMP model by assuming that the production has diminishing returns to labor instead of constant returns to labor, and that the real wage is given by a rigid wage norm instead of Nash bargaining. In that model unemployment can be decomposed into rationing and frictional components. In recessions, the rationing component is large while the frictional component is small.
 + [Crepon, Duflo, Gurgand, Rathelot, and Zamora (2013)](https://doi.org/10.1093/qje/qjt001) – Casey Orton
 + [Akerlof, Rose, and Yellen (1988)](https://www.jstor.org/stable/2534536) – Bodi Dallas
 + [Michaillat and Saez (2015)](/3.pdf) – This paper adds aggregate demand to the model in Michaillat (2012). This is done by adding a product market to the labor market with a similar matching structure. Aggregate demand shocks generate fluctuations in unemployment and vacancies along the Beveridge curve. In that model, unemployment can be decomposed into three components: Keynesian unemployment (due to insufficient aggregate demand), classical unemployment (due to high real wages), and frictional unemployment (due to matching frictions).
