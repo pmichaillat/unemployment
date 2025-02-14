@@ -192,7 +192,7 @@ In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?i
 #### Due dates
 
 + Thursday 6 February: presentations of project outlines in class
-+ Thursday 20 February: presentations of early results in class
++ Tuesday 25 February & Thursday 27 February: presentations of early results in class
 + Tuesday 11 March & Thursday 13 March: presentations of final results in class
 + Thursday 20 March at noon: final paper due [by email](mailto:abrahma@ucsc.edu)
 
