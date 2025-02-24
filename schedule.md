@@ -17,7 +17,7 @@
 + [Barnichon (2010)](https://doi.org/10.1016/j.econlet.2010.08.029) – Casey Orton
 + [Petrosky-Nadeau and Zhang (2021)](https://doi.org/10.1016/j.jmoneco.2020.01.009) – Matthew Choi
 + [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – Thayer Doyle
-+ [Michaillat and Saez (2024)](/16.pdf) – Amishi Chokshi
++ [Michaillat and Saez (2024)](https://pascalmichaillat.org/16.pdf) – Amishi Chokshi
 
 ## Tuesday 28 January
 
@@ -26,7 +26,7 @@
 + [Rogerson, Shimer, and Wright (2005)](https://doi.org/10.1257/002205105775362014) – This survey reviews a range of search and matching models.
 + [Pissarides (2011)](https://doi.org/10.1257/aer.101.4.1092) – Charles Simons
 + [Mortensen (2011)](https://doi.org/10.1257/aer.101.4.1073) – Thayer Doyle
-+ [Michaillat (2024)](/14.pdf) – Matt Ramos
++ [Michaillat (2024)](https://pascalmichaillat.org/14.pdf) – Matt Ramos
 
 ## Tuesday 4 February
 
@@ -49,17 +49,17 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 
 ## Tuesday 18 February
 
-+ [Michaillat (2012)](/1.pdf) – This paper first establishes that the DMP model does not have job rationing and then develops a matching model with job rationing. The job-rationing model departs from the DMP model by assuming that the production has diminishing returns to labor instead of constant returns to labor, and that the real wage is given by a rigid wage norm instead of Nash bargaining. In that model unemployment can be decomposed into rationing and frictional components. In recessions, the rationing component is large while the frictional component is small.
++ [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) – This paper first establishes that the DMP model does not have job rationing and then develops a matching model with job rationing. The job-rationing model departs from the DMP model by assuming that the production has diminishing returns to labor instead of constant returns to labor, and that the real wage is given by a rigid wage norm instead of Nash bargaining. In that model unemployment can be decomposed into rationing and frictional components. In recessions, the rationing component is large while the frictional component is small.
 + [Crepon, Duflo, Gurgand, Rathelot, and Zamora (2013)](https://doi.org/10.1093/qje/qjt001) – Casey Orton
 + [Akerlof, Rose, and Yellen (1988)](https://www.jstor.org/stable/2534536) – Bodi Dallas
-+ [Michaillat and Saez (2015)](/3.pdf) – This paper adds aggregate demand to the model in Michaillat (2012). This is done by adding a product market to the labor market with a similar matching structure. Aggregate demand shocks generate fluctuations in unemployment and vacancies along the Beveridge curve. In that model, unemployment can be decomposed into three components: Keynesian unemployment (due to insufficient aggregate demand), classical unemployment (due to high real wages), and frictional unemployment (due to matching frictions).
-+ [Michaillat and Saez (2022)](/7.pdf) –  This paper builds a dynamic version of the model in Michaillat and Saez (2015), which is static. In this model the central bank can influence aggregate demand and unemployment through interest rates.
-+ [Michaillat and Saez (2024)](/15.pdf) – This paper uses the dynamic model in Michaillat and Saez (2022) and generates a Phillips curve by introducing price competition through directed search. To ensure that unemployment fluctuates, the model assumes price rigidity through quadratic price-adjustment costs. The Phillips curve produced by the model guarantees divine coincidence: inflation is on target when unemployment is efficient.
++ [Michaillat and Saez (2015)](https://pascalmichaillat.org/3.pdf) – This paper adds aggregate demand to the model in Michaillat (2012). This is done by adding a product market to the labor market with a similar matching structure. Aggregate demand shocks generate fluctuations in unemployment and vacancies along the Beveridge curve. In that model, unemployment can be decomposed into three components: Keynesian unemployment (due to insufficient aggregate demand), classical unemployment (due to high real wages), and frictional unemployment (due to matching frictions).
++ [Michaillat and Saez (2022)](https://pascalmichaillat.org/7.pdf) –  This paper builds a dynamic version of the model in Michaillat and Saez (2015), which is static. In this model the central bank can influence aggregate demand and unemployment through interest rates.
++ [Michaillat and Saez (2024)](https://pascalmichaillat.org/15.pdf) – This paper uses the dynamic model in Michaillat and Saez (2022) and generates a Phillips curve by introducing price competition through directed search. To ensure that unemployment fluctuates, the model assumes price rigidity through quadratic price-adjustment costs. The Phillips curve produced by the model guarantees divine coincidence: inflation is on target when unemployment is efficient.
 
 ## Tuesday 25 February
 
-+ [Michaillat and Saez (2021)](/9.pdf) – Jacob Richardson
-+ [Michaillat and Saez (2024)](/13.pdf) – Casey Orton
++ [Michaillat and Saez (2021)](https://pascalmichaillat.org/9.pdf) – Jacob Richardson
++ [Michaillat and Saez (2024)](https://pascalmichaillat.org/13.pdf) – Casey Orton
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – Charles Simons
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Tuong Van
@@ -67,7 +67,7 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 	
 ## Tuesday 4 March
 
-+ [Michaillat (2014)](/2.pdf) – Bodi Dallas
++ [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – Bodi Dallas
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – Gaspard Avat
 + [Crepon and van den Berg (2016)](https://doi.org/10.1146/annurev-economics-080614-115738) – Tuong Van
 + [Neumark and Shirley (2022)](https://doi.org/10.1111/irel.12306) – Oscar Lin Tan
