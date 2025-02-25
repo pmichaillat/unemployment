@@ -63,7 +63,7 @@ unfairly, which dampens their intrinsic motivation and reduces their output. As 
 + [Hosios (1990)](https://doi.org/10.2307/2297382) – This paper shows that in a DMP model, unemployment is efficient when workers' bargaining power equals the elasticity of the matching function with respect to unemployment.
 + [Chetty (2009)](https://doi.org/10.1146/annurev.economics.050708.142910) – Charles Simons
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Tuong Van
-+ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – This paper uses the formula $u^\ast = \sqrt{uv}$ to compute the FERUs in selected European countries (Germany, Sweden, Austria, Finland, UK) between 1970 and 2022. It compares the FERUs and unemployment gaps in Europe to those in the United States.
++ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – Oscar Lin Tan
 	
 ## Tuesday 4 March
 
