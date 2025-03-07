@@ -241,7 +241,26 @@ Your research paper should be short and follow the guidelines:
 
 The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the due date.
 
-Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo. Another way is to place all code and data to a folder, zip it, and email it to Ananyo. The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code & data repository as a template: https://github.com/pmichaillat/feru.
+#### Structure of the paper
+
+The structure of your paper should support your argument. It should help convince the reader that you have answered your research question in a compelling way. There is not a mandatory structure: you should look at the [papers assigned as reading](#schedule-of-readings) to find good templates for your structure. 
+
+For an empirical paper, a typical structure is the following:
+
++ Introduction – Less than 2 pages – Present your research question, position your paper in the literature, and provide an overview of your answer.
++ Data – 1–2 pages – Present your data, including where they come from and what they cover and what the summary statistics are.
++ Main answer to the research question – 3–6 pages – Present the central analysis of the paper. This section is the core of the paper. In it you should explain and justify the methodology. Then you should present the empirical results—both in graphical form and then in regression table form. Finally you should interpret the results; that is, you should explain what the numerical results mean in words and what their implications might be, for instance for policy.
++ Robustness – 1–3 pages – Present the robustness checks that you conducted, to convince the readers that your main results are robust to alternative empirical specifications and assumptions. The goal is to show that your results do not depend on the details of the analysis, but that they are valid across a range of comparable approaches.
++ Extensions – 1–3 pages – Present further empirical investigations related to your main question. The extensions could investigate mechanisms behind your results, or look at related empirical questions, or look at some special cases. The goal of these extensions is to understand better the main result.
++ Conclusion – Less than 2 pages – Briefly summarize your results, then discuss the implications of the results, especially for policy. Discuss the limitations of the analysis and explain how these limitations could be addressed in future research.
+
+#### Code and data
+
+Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. 
+
+The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code & data repository as a template: https://github.com/pmichaillat/feru.
+
+The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo. Another way is to place all code and data to a folder, zip it, and email it to Ananyo. 
 
 ---
 
