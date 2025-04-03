@@ -14,7 +14,7 @@ The course material is hosted at https://pascalmichaillat.org/c1/.
 + [Reading material](https://github.com/pmichaillat/unemployment/tree/main/readings) – The folder contains book chapters and articles that may be hard to find online.
 + [Lecture material](https://github.com/pmichaillat/unemployment/tree/main/lectures) - The folder contains discussions from lecture.
 + [Section material](https://github.com/pmichaillat/unemployment/tree/main/sections) – The folder contains material from section.
-+ [Presentations](https://github.com/pmichaillat/unemployment/tree/main/presentations) – The folder contains 4 presentation templates ad all the student presentations given during the quarter.
++ [Presentations](https://github.com/pmichaillat/unemployment/tree/main/presentations) – The folder contains all the student presentations given during the quarter, and some presentation templates and examples.
 + [LaTeX code for presentation slides](https://github.com/pmichaillat/unemployment/tree/main/latex/presentation) – Complete code to produce a presentation with LaTeX. Just upload the files to Overleaf and start writing your slides!
 + [LaTeX code for research paper](https://github.com/pmichaillat/unemployment/tree/main/latex/paper) – Complete code to produce a research paper with LaTeX. Just upload the files to Overleaf and start writing your paper!
 
