@@ -4,7 +4,7 @@ This repository is the portal for the course "Unemployment" taught by [Pascal Mi
 
 ## Course webpage
 
-The course material is hosted at https://pascalmichaillat.org/c1/.
+The course material is hosted at https://pascalmichaillat.org/v/.
 
 ## Portal content
 

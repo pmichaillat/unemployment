@@ -14,7 +14,7 @@ The course's topic is unemployment. The course presents facts about the labor ma
 
 #### Course resources
 
-+ [Course material](https://pascalmichaillat.org/c1/)
++ [Course material](https://pascalmichaillat.org/v/)
 + [Course portal](https://github.com/pmichaillat/unemployment)
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
 
@@ -69,29 +69,29 @@ This is a flipped course, so at home you will watch lecture videos and read arti
 
 At home, you will have to watch the following lecture videos:
   
-+ Before Thursday 9 January: videos in [Introduction](https://pascalmichaillat.org/c1/#introduction)
-+ Before Thursday 16 January: videos in [Labor market facts and matching function](https://pascalmichaillat.org/c1/#labor-market-facts-and-matching-function)
-+ Before Thursday 23 January: videos in [Matching model of the labor market](https://pascalmichaillat.org/c1/#matching-model-of-the-labor-market)
-+ Before Thursday 30 January: videos in [Wage functions](https://pascalmichaillat.org/c1/#wage-functions)
-+ Before Thursday 6 February: videos in [Unemployment fluctuations](https://pascalmichaillat.org/c1/#unemployment-fluctuations)
-+ Before Thursday 13 February: videos in [Frictional and rationing unemployment](https://pascalmichaillat.org/c1/#frictional-and-rationing-unemployment)
-+ Before Thursday 20 February: videos in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/c1/#efficient-unemployment-and-unemployment-gap)
-+ Before Thursday 27 February: videos in [Labor-demand policies](https://pascalmichaillat.org/c1/#labor-demand-policies)
-+ Before Thursday 6 March: videos in [Unemployment insurance](https://pascalmichaillat.org/c1/#unemployment-insurance)
++ Before Thursday 9 January: videos in [Introduction](https://pascalmichaillat.org/v/#introduction)
++ Before Thursday 16 January: videos in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
++ Before Thursday 23 January: videos in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
++ Before Thursday 30 January: videos in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
++ Before Thursday 6 February: videos in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
++ Before Thursday 13 February: videos in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
++ Before Thursday 20 February: videos in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
++ Before Thursday 27 February: videos in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
++ Before Thursday 6 March: videos in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
 
 #### Schedule of readings
 
 At home, you will also have to go over the following readings:
 
-+ Before Tuesday 14 January: main readings in [Introduction](https://pascalmichaillat.org/c1/#introduction)
-+ Before Tuesday 21 January: main readings in [Labor market facts and matching function](https://pascalmichaillat.org/c1/#labor-market-facts-and-matching-function)
-+ Before Tuesday 28 January: main readings in [Matching model of the labor market](https://pascalmichaillat.org/c1/#matching-model-of-the-labor-market)
-+ Before Tuesday 4 February: main readings in [Wage functions](https://pascalmichaillat.org/c1/#wage-functions)
-+ Before Tuesday 11 February: main readings in [Unemployment fluctuations](https://pascalmichaillat.org/c1/#unemployment-fluctuations)
-+ Before Tuesday 18 February: main readings in [Frictional and rationing unemployment](https://pascalmichaillat.org/c1/#frictional-and-rationing-unemployment)
-+ Before Tuesday 25 February: main readings in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/c1/#efficient-unemployment-and-unemployment-gap)
-+ Before Tuesday 4 March: main readings in [Labor-demand policies](https://pascalmichaillat.org/c1/#labor-demand-policies)
-+ Before Tuesday 11 March: main readings in [Unemployment insurance](https://pascalmichaillat.org/c1/#unemployment-insurance)
++ Before Tuesday 14 January: main readings in [Introduction](https://pascalmichaillat.org/v/#introduction)
++ Before Tuesday 21 January: main readings in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
++ Before Tuesday 28 January: main readings in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
++ Before Tuesday 4 February: main readings in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
++ Before Tuesday 11 February: main readings in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
++ Before Tuesday 18 February: main readings in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
++ Before Tuesday 25 February: main readings in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
++ Before Tuesday 4 March: main readings in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
++ Before Tuesday 11 March: main readings in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
 
 The main readings cover important material on which the lectures are based. You should read them from beginning to end, attempt to reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do a PhD in economics, you are encouraged to go over the additional readings as well.
 
@@ -286,7 +286,7 @@ The course relies on basic mathematical methods such as unconstrained and constr
 
 So you are expected to have good command of this material. Appropriate courses in the department of Applied Mathematics will provide a great preparation for the course. In additional, a good reference for the material used in the course is [Essential Mathematics for Economic Analysis](https://www.amazon.com/Essential-Mathematics-Economic-Analysis-Sydsaeter-dp-1292359285/dp/1292359285/ref=dp_ob_title_bk), by K. Sydsaeter, P. Hammond, A. Strom, and A. Carvajal.
 
-See also [these lecture notes](https://pascalmichaillat.org/c3/) for a review of the material—although not everything covered in these notes is required for the course.
+See also [these lecture notes](https://pascalmichaillat.org/x/) for a review of the material—although not everything covered in these notes is required for the course.
 
 ---
 
