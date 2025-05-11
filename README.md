@@ -10,6 +10,7 @@ The course material is hosted at https://pascalmichaillat.org/v/.
 
 + [Syllabus for Winter 2025](https://github.com/pmichaillat/unemployment/blob/main/syllabus.md)
 + [Schedule of reading presentations](https://github.com/pmichaillat/unemployment/blob/main/schedule.md)
++ [Lecture handouts](https://github.com/pmichaillat/unemployment/tree/main/handouts) - The folder contains handouts distributed in lecture. The handouts are designed to help you collect your research ideas and collect questions about the lecture videos.
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions) - This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along course announcements.
 + [Reading material](https://github.com/pmichaillat/unemployment/tree/main/readings) - The folder contains book chapters and articles that may be hard to find online.
 + [Lecture material](https://github.com/pmichaillat/unemployment/tree/main/lectures) - The folder contains discussions from lecture.
