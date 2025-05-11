@@ -2,7 +2,9 @@
 
 ---
 
-# Questions about Lecture Videos for Week 3
+### Questions about Lecture Videos for Week 3
+
+---
 
 Watch the lecture videos for week 3 on the topic of "Wage functions". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 

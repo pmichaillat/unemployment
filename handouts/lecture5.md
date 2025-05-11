@@ -2,7 +2,9 @@
 
 ---
 
-# Questions about Lecture Videos for Week 5
+### Questions about Lecture Videos for Week 5
+
+---
 
 Watch the lecture videos for week 5 on the topic of "Frictional and rationing unemployment". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
