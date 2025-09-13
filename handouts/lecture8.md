@@ -2,90 +2,97 @@
 
 ---
 
-### Questions about Lecture Videos for Week 8
+### Questions about lecture videos for week 8
 
 ---
 
-Watch the lecture videos for week 6 on the topic of "Unemployment insurance". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 6 on the topic of "Labor-demand policies". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
+#### Question about video 97:
 
-#### Question about video 119:
++ 
+
+#### Question about video 98:
+
++ 
+
+#### Question about video 99:
 
 +
 
-#### Question about video 120:
+#### Question about video 100:
 
 + 
 
-#### Question about video 121:
+#### Question about video 101:
 
 + 
 
-#### Question about video 122:
+#### Question about video 102:
 
 + 
 
-#### Question about video 123:
+#### Question about video 103:
 
 + 
 
-#### Question about video 124:
+#### Question about video 104:
 
 + 
 
-#### Question about video 125:
+#### Question about video 105:
 
 + 
 
-#### Question about video 126:
+#### Question about video 106:
 
 + 
 
-#### Question about video 127:
+#### Question about video 107:
 
 + 
 
-#### Question about video 128:
+#### Question about video 108:
 
 + 
 
-#### Question about video 129:
+#### Question about video 109:
 
 + 
 
-#### Question about video 130:
+#### Question about video 110:
 
 + 
 
-#### Question about video 131:
+#### Question about video 111:
 
 + 
 
-#### Question about video 132:
+#### Question about video 112:
 
 + 
 
-#### Question about video 133:
+#### Question about video 113:
 
 + 
 
-#### Question about video 134:
+#### Question about video 114:
 
 + 
 
-#### Question about video 135:
+#### Question about video 115:
 
 + 
 
-#### Question about video 136:
+#### Question about video 116:
 
 + 
 
-#### Question about video 137:
+#### Question about video 117:
 
 + 
 
-#### Question about video 138:
+#### Question about video 118:
 
 + 
 

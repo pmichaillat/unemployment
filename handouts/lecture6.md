@@ -2,80 +2,83 @@
 
 ---
 
-### Questions about Lecture Videos for Week 6
+### Questions about lecture videos for week 6
 
 ---
 
-Watch the lecture videos for week 6 on the topic of "Efficient unemployment and unemployment gap". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 5 on the topic of "Frictional and rationing unemployment". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
-#### Question about video 80:
 
-+ 
-
-#### Question about video 81:
+#### Question about video 62:
 
 + 
 
-#### Question about video 82:
+#### Question about video 63:
 
 + 
 
-#### Question about video 83:
+#### Question about video 64:
 
 + 
 
-#### Question about video 84:
+#### Question about video 65:
 
 + 
 
-#### Question about video 85:
+#### Question about video 66:
 
 + 
 
-#### Question about video 86:
+#### Question about video 67:
 
 + 
 
-#### Question about video 87:
+#### Question about video 68:
 
 + 
 
-#### Question about video 88:
+#### Question about video 69:
 
 + 
 
-#### Question about video 89:
+#### Question about video 70:
 
 + 
 
-#### Question about video 90:
+#### Question about video 71:
 
 + 
 
-#### Question about video 91:
+#### Question about video 72:
 
 + 
 
-#### Question about video 92:
+#### Question about video 73:
 
 + 
 
-#### Question about video 93:
+#### Question about video 74:
 
 + 
 
-#### Question about video 94:
+#### Question about video 75:
 
 + 
 
-#### Question about video 95:
+#### Question about video 76:
 
 + 
 
-#### Question about video 96:
+#### Question about video 77:
 
 + 
 
+#### Question about video 78:
 
++ 
+
+#### Question about video 79:
+
++ 
 
 

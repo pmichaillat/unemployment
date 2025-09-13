@@ -2,73 +2,69 @@
 
 ---
 
-### Questions about Lecture Videos for Week 4
+### Questions about lecture videos for week 4
 
 ---
 
-Watch the lecture videos for week 4 on the topic of "Unemployment fluctuations". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 3 on the topic of "Wage functions". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
-
-#### Question about video 46:
-
-+ 
-
-#### Question about video 47:
+#### Question about video 31:
 
 + 
 
-#### Question about video 48:
+#### Question about video 32:
 
 + 
 
-#### Question about video 49:
+#### Question about video 33:
+
++
+
+#### Question about video 34:
 
 + 
 
-#### Question about video 50:
+#### Question about video 35:
 
 + 
 
-#### Question about video 51:
+#### Question about video 36:
 
 + 
 
-#### Question about video 52:
+#### Question about video 37:
 
 + 
 
-#### Question about video 53:
+#### Question about video 38:
 
 + 
 
-#### Question about video 54:
+#### Question about video 39:
 
 + 
 
-#### Question about video 55:
+#### Question about video 40:
 
 + 
 
-#### Question about video 56:
+#### Question about video 41:
 
 + 
 
-#### Question about video 57:
+#### Question about video 42:
 
 + 
 
-#### Question about video 58:
+#### Question about video 43:
 
 + 
 
-#### Question about video 59:
+#### Question about video 44:
 
 + 
 
-#### Question about video 60:
+#### Question about video 45:
 
 + 
 
-#### Question about video 61:
-
-+ 

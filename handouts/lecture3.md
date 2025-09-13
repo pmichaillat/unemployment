@@ -2,69 +2,84 @@
 
 ---
 
-### Questions about Lecture Videos for Week 3
+### Questions about lecture videos for week 3
 
 ---
 
-Watch the lecture videos for week 3 on the topic of "Wage functions". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 2 on the topic of "Matching model of the labor market". For each video, write down the most pressing questions that come to mind. We will discuss and address these questions in class.
 
-#### Question about video 31:
-
-+ 
-
-#### Question about video 32:
+#### Question about video 12:
 
 + 
 
-#### Question about video 33:
-
-+
-
-#### Question about video 34:
+#### Question about video 13:
 
 + 
 
-#### Question about video 35:
+#### Question about video 14:
 
 + 
 
-#### Question about video 36:
+#### Question about video 15:
 
 + 
 
-#### Question about video 37:
+#### Question about video 16:
 
 + 
 
-#### Question about video 38:
+#### Question about video 17:
 
 + 
 
-#### Question about video 39:
+#### Question about video 18:
 
 + 
 
-#### Question about video 40:
+#### Question about video 19:
 
 + 
 
-#### Question about video 41:
+#### Question about video 20:
 
 + 
 
-#### Question about video 42:
+#### Question about video 21:
 
 + 
 
-#### Question about video 43:
+#### Question about video 22:
 
 + 
 
-#### Question about video 44:
+#### Question about video 23:
 
 + 
 
-#### Question about video 45:
+#### Question about video 24:
 
 + 
 
+#### Question about video 25:
+
++ 
+
+#### Question about video 26:
+
++ 
+
+#### Question about video 27:
+
++ 
+
+#### Question about video 28:
+
++ 
+
+#### Question about video 29:
+
++ 
+
+#### Question about video 30:
+
++ 

@@ -2,100 +2,79 @@
 
 ---
 
-### Questions about Lecture Videos for Week 7
+### Questions about lecture videos for week 7
 
 ---
 
-Watch the lecture videos for week 6 on the topic of "Labor-demand policies". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 6 on the topic of "Efficient unemployment and unemployment gap". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
-#### Question about video 97:
-
-+ 
-
-#### Question about video 98:
+#### Question about video 80:
 
 + 
 
-#### Question about video 99:
-
-+
-
-#### Question about video 100:
+#### Question about video 81:
 
 + 
 
-#### Question about video 101:
+#### Question about video 82:
 
 + 
 
-#### Question about video 102:
+#### Question about video 83:
 
 + 
 
-#### Question about video 103:
+#### Question about video 84:
 
 + 
 
-#### Question about video 104:
+#### Question about video 85:
 
 + 
 
-#### Question about video 105:
+#### Question about video 86:
 
 + 
 
-#### Question about video 106:
+#### Question about video 87:
 
 + 
 
-#### Question about video 107:
+#### Question about video 88:
 
 + 
 
-#### Question about video 108:
+#### Question about video 89:
 
 + 
 
-#### Question about video 109:
+#### Question about video 90:
 
 + 
 
-#### Question about video 110:
+#### Question about video 91:
 
 + 
 
-#### Question about video 111:
+#### Question about video 92:
 
 + 
 
-#### Question about video 112:
+#### Question about video 93:
 
 + 
 
-#### Question about video 113:
+#### Question about video 94:
 
 + 
 
-#### Question about video 114:
+#### Question about video 95:
 
 + 
 
-#### Question about video 115:
+#### Question about video 96:
 
 + 
-
-#### Question about video 116:
-
-+ 
-
-#### Question about video 117:
-
-+ 
-
-#### Question about video 118:
-
-+ 
-
 
 
 

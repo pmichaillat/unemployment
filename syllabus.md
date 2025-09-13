@@ -1,10 +1,10 @@
-### Unemployment: Winter 2025 Syllabus
+### Unemployment: Fall 2025 Syllabus
 
 --- 
 
 #### Course description
 
-The course's topic is unemployment. The course presents facts about the labor market and unemployment, models to describe unemployment, and policies to tackle unemployment. The course addresses several questions: 
+The course's topic is unemployment. The course presents facts about the labor market and unemployment, develops a model to describe unemployment, and analyzes policies to tackle unemployment. The course addresses several questions: 
 
 + Why do we care about unemployment?
 + Why does unemployment exist? 
@@ -15,43 +15,29 @@ The course's topic is unemployment. The course presents facts about the labor ma
 #### Course resources
 
 + [Course material](https://pascalmichaillat.org/v/)
++ [Lecture videos](https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf)
 + [Course portal](https://github.com/pmichaillat/unemployment)
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
-
----
-
-#### Teaching time & location
-
-+ Tuesday–Thursday, 3:20pm–4:55pm
-+ Cowell Academic Building, room 131 
-
-#### Section time & location
-
-+ Section A: Wednesday, 1:20pm–2:25pm, in Merrill Academic Building, room 132 
-+ Section B: Friday, 2:40pm–3:45pm, in Baskin Engineering Building, room 165
 
 ---
 
 #### Instructor
 
 + [Pascal Michaillat](https://pascalmichaillat.org/)
-+ Associate Professor of Economics, UCSC
++ Professor of Economics, UCSC
 
-#### Teaching assistant
+#### Teaching time & location
 
-+ Ananyo Brahma
-+ PhD student in Economics, UCSC
++ Tuesday–Thursday, 9:50am–11:25am
++ Physical Sciences, room 140 
 
----
+#### Office hours time & location
 
-#### Office hours
++ Wednesday, 3:30pm-4:30pm
++ Engineering 2 Building, room 437
++ Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters
 
-Office hours are conducted in-person. Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters:
-
-+ Professor office hours: Wednesday, 4:00pm-5:00pm, in Engineering 2 Building, room 437
-+ TA office hours: Monday, 2:00pm–4:00pm, in Engineering 2 Building, room 403B
-
-#### GitHub Discussions
+#### GitHub discussion forum
 
 In addition to office hours, we will communicate using [GitHub Discussions](https://github.com/pmichaillat/unemployment/discussions). This collaborative discussion forum is designed to get you help quickly and efficiently. To take full advantage of this communication channel, make sure to:
 
@@ -69,50 +55,31 @@ This is a flipped course, so at home you will watch lecture videos and read arti
 
 At home, you will have to watch the following lecture videos:
   
-+ Before Thursday 9 January: videos in [Introduction](https://pascalmichaillat.org/v/#introduction)
-+ Before Thursday 16 January: videos in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
-+ Before Thursday 23 January: videos in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
-+ Before Thursday 30 January: videos in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
-+ Before Thursday 6 February: videos in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
-+ Before Thursday 13 February: videos in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
-+ Before Thursday 20 February: videos in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
-+ Before Thursday 27 February: videos in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
-+ Before Thursday 6 March: videos in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
++ Before Tuesday 30 September: videos in [Introduction](https://pascalmichaillat.org/v/#introduction)
++ Before Thursday 2 October: videos in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
++ Before Thursday 9 October:  videos in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
++ Before Thursday 16 October: videos in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
++ Before Thursday 23 October: videos in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
++ Before Thursday 30 October: videos in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
++ Before Thursday 6 November: videos in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
++ Before Thursday 13 November: videos in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
++ Before Thursday 20 November: videos in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
 
 #### Schedule of readings
 
 At home, you will also have to go over the following readings:
 
-+ Before Tuesday 14 January: main readings in [Introduction](https://pascalmichaillat.org/v/#introduction)
-+ Before Tuesday 21 January: main readings in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
-+ Before Tuesday 28 January: main readings in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
-+ Before Tuesday 4 February: main readings in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
-+ Before Tuesday 11 February: main readings in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
-+ Before Tuesday 18 February: main readings in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
-+ Before Tuesday 25 February: main readings in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
-+ Before Tuesday 4 March: main readings in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
-+ Before Tuesday 11 March: main readings in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
++ Before Tuesday 30 September: main readings in [Introduction](https://pascalmichaillat.org/v/#introduction)
++ Before Tuesday 7 October: main readings in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
++ Before Tuesday 14 October: main readings in [Matching model of the labor market](https://pascalmichaillat.org/v/#matching-model-of-the-labor-market)
++ Before Tuesday 21 October: main readings in [Wage functions](https://pascalmichaillat.org/v/#wage-functions)
++ Before Tuesday 28 October: main readings in [Unemployment fluctuations](https://pascalmichaillat.org/v/#unemployment-fluctuations)
++ Before Tuesday 4 November: main readings in [Frictional and rationing unemployment](https://pascalmichaillat.org/v/#frictional-and-rationing-unemployment)
++ Before Tuesday 11 November: main readings in [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v/#efficient-unemployment-and-unemployment-gap)
++ Before Tuesday 18 November: main readings in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
++ Before Tuesday 25 November: main readings in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
 
-The main readings cover important material on which the lectures are based. You should read them from beginning to end, attempt to reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research. If you plan to do a PhD in economics, you are encouraged to go over the additional readings as well.
-
----
-
-#### Schedule of sections
-
-Sections will be devoted to solving multiple-choice quizzes based on lecture material. The quizzes will put the material from lecture into practice. Sections will cover the following material:
-
-+ Wednesday 8 January & Friday 10 January : no section
-+ Wednesday 15 January & Friday 17 January: introduction to research tools (GitHub, LaTeX, MATLAB, R, Python)
-+ Wednesday 22 January & Friday 24 January: quizzes on [Labor market](https://pascalmichaillat.org/v5.pdf) and [Matching function](https://pascalmichaillat.org/v6.pdf)
-+ Wednesday 29 January & Friday 31 January: quizzes on [Matching model of the labor market](https://pascalmichaillat.org/v7.pdf)
-+ Wednesday 5 February & Friday 7 February: quizzes on [Wage functions](https://pascalmichaillat.org/v8.pdf)
-+ Wednesday 12 February & Friday 14 February: quizzes on [Unemployment fluctuations](https://pascalmichaillat.org/v9.pdf)
-+ Wednesday 19 February & Friday 21 February: quizzes on [Frictional and rationing unemployment](https://pascalmichaillat.org/v10.pdf)
-+ Wednesday 26 February & Friday 28 February: quizzes on [Efficient unemployment and unemployment gap](https://pascalmichaillat.org/v11.pdf)
-+ Wednesday 5 March & Friday 7 March: quizzes on [Labor-demand policies](https://pascalmichaillat.org/v12.pdf)
-+ Wednesday 12 March & Friday 14 March: quizzes on [Unemployment insurance](https://pascalmichaillat.org/v13.pdf)
-
-The section quizzes are designed to help review and assimilate the content from lecture. This content provides the building blocks that you will use in your research project. As such, mastering the lecture content is key, and the section quizzes are here to help you do that.
+The main readings cover important material on which the lectures are based. You should read them from beginning to end, attempt to reproduce the key steps of the derivations, and remember the key results. Additional readings are also be provided in each section. These readings provide additional theoretical results, empirical evidence, some background, and may provide inspiration for your research.
 
 ---
 
@@ -191,10 +158,10 @@ In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?i
 
 #### Due dates
 
-+ Thursday 6 February: presentations of project outlines in class
-+ Tuesday 25 February & Thursday 27 February: presentations of early results in class
-+ Tuesday 11 March & Thursday 13 March: presentations of final results in class
-+ Thursday 20 March at noon: final paper due [by email](mailto:abrahma@ucsc.edu)
++ Thursday 16 October: presentation of project outline in class
++ Thursday 13 November: presentation of early results in class
++ Tuesday 2 December & Thursday 4 December: presentation of final results  in class
++ Thursday 11 December at noon: submission of final paper by email
 
 #### Presentation format: project outline
 
@@ -237,7 +204,7 @@ Your research paper should be short and follow the guidelines:
 + Manuscripts must be less than 6,000 words. The wordcount applies to the main body of the text and title page but excludes the reference list.
 + Manuscripts should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Manuscripts must include an abstract of 150 or fewer words.
-+ Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. For empirical work, the main text should include relevant information about data sources, variable definitions and construction, the estimating equations, and any other information needed to understand and assess each exhibit in the main text. For theoretical work, proofs should typically be contained in the paper. This is the case when the proof itself provides insight into the paper's argument or when the method of proof is innovative.
++ Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. 
 
 The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the due date.
 
@@ -268,13 +235,12 @@ The easiest way to submit the code is to create a public GitHub repository, uplo
 
 Your grade will be based on the quality of the research project and your participation in various course activities. The contribution to the total grade of 100 points is as follows:
 
-+ Participation and general community building: 10 points
-+ Answers to section quizzes: 10 points
-+ Presentations of course readings: 30 points   
-+ Presentation of project outline: 10 points
-+ Presentation of early results: 10 points
-+ Presentation of final results: 10 points
-+ Final paper (including code & data): 20 points
++ Presentations of course readings: 30 points.
++ Presentation of project outline: 10 points.
++ Presentation of early results: 10 points.
++ Presentation of final results: 10 points.
++ Final paper (including code & data): 40 points.
++ Participation bonus: 10 points. This is a research-intensive course. As such, participation in class and on [GitHub's discussion forum](https://github.com/pmichaillat/economic-slack/discussions) is critical and will be rewarded with bonus points.
 
 Letter grades will be computed based on your total grade using a standard curve.
 
@@ -288,8 +254,6 @@ So you are expected to have good command of this material. Appropriate courses i
 
 See also [these lecture notes](https://pascalmichaillat.org/x/) for a review of the material—although not everything covered in these notes is required for the course.
 
----
-
 #### Writing resources
 
 There is no textbook for this course, but several books might be helpful to write your research paper.
@@ -298,11 +262,9 @@ First and foremost, a good research paper needs to have a good structure. A good
 
 Scientific papers involve an elements that does not appear in other writings but is fundamental to communicate scientific ideas: graphs. It is important to make clear, clean, and meaningful graphs. A great reference on how to create compelling graphs is [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
 
-Once your paper has a good structure and good graphs, it does not hurt to have a decent style—to help readers go through the paper. The canonical reference on style is [The Elements of Style](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
+Once your paper has a good structure and good graphs,  a decent style helps readers navigate the paper. The canonical reference on English style is [The Elements of Style](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
 
 Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual—followed by most US journals—is the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, conventions, and style.
-
----
 
 #### LaTeX resources
 
@@ -316,3 +278,11 @@ LaTeX templates are available on GitHub to help you write your presentations and
 These templates follow typographical best practices and have a minimalist design. You can also [use these LaTeX commands](https://github.com/pmichaillat/latex-math) in conjunction with the templates to obtain mathematical expressions that are more legible and easier to manipulate.
 
 If you are new to LaTeX, feel free [to use Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overleaf makes it easy to produce research paper and research presentations in LaTeX directly from your web browser. You can use the above templates with Overleaf.
+
+--- 
+
+#### Generative artificial intelligence (AI)
+
+In this course, a primary objective is for you to develop the critical thinking, research, and writing skills essential for your academic and professional career. To ensure you are the sole author of your work, the use of generative AI tools—such as ChatGPT, Gemini, Copilot, and Claude—for generating any portion of your submitted assignments is strictly prohibited. This includes using AI to brainstorm, create outlines, write drafts, summarize articles, or rephrase text. You are, of course, welcome to use standard tools that check grammar and spelling on text you have already written yourself.
+
+Our goal in this class is to work on our research and writing skills together. We ask that all submitted work is your own original creation from start to finish to make sure you get the most out of every assignment. Relying on AI to generate your text short-circuits this critical practice.
