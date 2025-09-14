@@ -53,7 +53,7 @@ This is a flipped course, so at home you will watch lecture videos and read arti
 
 #### Schedule of lecture videos
 
-At home, you will have to watch the following lecture videos:
+At home, you will watch the following lecture videos:
   
 + Before Tuesday 30 September: videos in [Introduction](https://pascalmichaillat.org/v/#introduction)
 + Before Thursday 2 October: videos in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
@@ -67,7 +67,7 @@ At home, you will have to watch the following lecture videos:
 
 #### Schedule of readings
 
-At home, you will also have to go over the following readings:
+At home, you will also go over the following readings:
 
 + Before Tuesday 30 September: main readings in [Introduction](https://pascalmichaillat.org/v/#introduction)
 + Before Tuesday 7 October: main readings in [Labor market facts and matching function](https://pascalmichaillat.org/v/#labor-market-facts-and-matching-function)
@@ -85,11 +85,11 @@ The main readings cover important material on which the lectures are based. You 
 
 #### Presentation of readings
 
-Most Tuesday class meetings will be devoted to discussing readings. 
+Tuesday class meetings will be devoted to discussing readings. 
 
-To lead the discussion, students will give 10-minute presentations that summarize the readings for the week. Each student will give several presentations during the quarter (the exact number of presentations will depend on the enrollment). The presentations will be scheduled in advance.
+To lead the discussion, students will give 10-minute presentations that summarize the readings for the week. Each student will give several presentations during the quarter (the exact number of presentations will depend on the enrollment). The presentations will be [scheduled in advance](https://github.com/pmichaillat/unemployment/blob/main/schedule.md).
 
-Each presentation should have [6 slides addressing the following questions](https://github.com/pmichaillat/unemployment/blob/main/presentations/readings/template.pdf):
+Each presentation should have 6 slides addressing the following questions:
 
 1. CONTEXT: How does the paper relate to the lecture material? How does it contribute to the course material?
 2. QUESTION: What is the research question addressed by the paper?
@@ -104,7 +104,7 @@ Presentation slides must be [written in LaTeX](#latex-resources) and compiled to
 
 #### Research paper
 
-Most Thursday class meetings will be devoted to research. Indeed, this is a research-intensive course, which will serve as good preparation for students interested in pursuing further studies in macroeconomics, especially a PhD. 
+Thursday class meetings will be devoted to research. Indeed, this is a research-intensive course, which will serve as good preparation for students interested in pursuing further studies in macroeconomics, especially a PhD. 
 
 In this course you will shift away from learning the results of other peoples' research into learning how to conduct your own research. You will therefore devote a good part of the course to active research. You will learn:
 
@@ -165,7 +165,7 @@ In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?i
 
 #### Presentation format: project outline
 
-The project outline should be [presented in 10 minutes with 5 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/projectoutlines/template.pdf).
+The project outline should be presented in 10 minutes with 5 slides.
 
 + Slide 1 – Research question: what are you asking in the project & why that matters
 + Slide 2 – Positioning: what we already know & what we do not yet know
@@ -177,9 +177,9 @@ It is fine to propose several possible research questions if you are unsure. Pre
 
 #### Presentation format: early results
 
-Early results should be [presented in 10 minutes with 6 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/earlyresults/template.pdf).
+Early results should be presented in 10 minutes with 6 slides.
 
-+ Slide 1 – Rapid review the research question & project positioning
++ Slide 1 – Review the research question & project positioning
 + Slides 2 + 3 – Detailed presentation of the research methodology, including data & model
 + Slides 4 + 5 – Detailed presentation of the early results, with tables & graphs
 + Slide 6 – Existing research hurdles & next steps
@@ -188,7 +188,7 @@ Presentation slides must be [written in LaTeX](#latex-resources) and compiled to
 
 #### Presentation format: final results
 
-Final results should be [presented in 10 minutes with 6 slides](https://github.com/pmichaillat/unemployment/blob/main/presentations/finalresults/template.pdf).
+Final results should be presented in 10 minutes with 6 slides.
 
 + Slide 1 – Review the research question & project positioning
 + Slide 2 – Review of the methodology, including data & model
@@ -206,7 +206,7 @@ Your research paper should be short and follow the guidelines:
 + Manuscripts must include an abstract of 150 or fewer words.
 + Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. 
 
-The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted to Ananyo by email](mailto:abrahma@ucsc.edu) before noon on the due date.
+The research paper must be [written in LaTeX](#latex-resources), compiled to a PDF, and [submitted by email](mailto:abrahma@ucsc.edu) before the due date.
 
 #### Structure of the paper
 
@@ -227,7 +227,7 @@ Any code and data used in the analysis must be submitted with the paper. This ap
 
 The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code & data repository as a template: https://github.com/pmichaillat/feru.
 
-The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo. Another way is to place all code and data to a folder, zip it, and email it to Ananyo. 
+The easiest way to submit the code is to create a public GitHub repository, upload code and data there, and share the link with Ananyo.
 
 ---
 
