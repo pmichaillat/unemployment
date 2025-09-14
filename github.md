@@ -58,7 +58,7 @@ Organize your repository as follows:
 
 1. Place new files in the correct folder with correct filenames on your computer.
 2. Open GitHub Desktop:  
-   - Write a commit message, such as `Submit first presentation of readings` or `Submit final paper`
+   - Write a commit message, such as `Submit first paper presentation` or `Submit presentation of early results` or `Submit research paper`
    - Click `Commit to main`  
    - Click `Push origin`  
 3. Confirm your files appear in your repository on `github.com`.
