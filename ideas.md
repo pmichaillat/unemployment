@@ -30,7 +30,7 @@ In one of the course readings, [Shimer (2005)](https://www.aeaweb.org/articles?i
 
 #### Another concrete example of research paper
 
-In another of the course readings, [Michaillat and Saez (2024)](https://doi.org/10.1111/obes.12685) develop a simple rule to detect US recessions from data on unemployment and job vacancies. In your research paper, you could:
+In another of the course readings, [Michaillat and Saez (2025)](https://doi.org/10.1111/obes.12685) develop a simple rule to detect US recessions from data on unemployment and job vacancies. In your research paper, you could:
 
 + Reconstruct the rule and re-assess its historical performance
 + Construct a similar rule in a different country. This would require finding new thresholds for the new country.
