@@ -24,12 +24,12 @@ Organize your repository as follows:
 
 ```
 .
-├── paper_presentations
+├── reading_presentations
 │   ├── week1.pdf
 │   ├── week4.pdf
 │   └── week7.pdf
 ├── research_presentations
-│   ├── outline.pdf
+│   ├── projectoutline.pdf
 │   ├── earlyresults.pdf
 │   └── finalresults.pdf
 ├── research_paper
@@ -38,7 +38,7 @@ Organize your repository as follows:
     └── [your scripts, notebooks, datasets, spreadsheets]
 ```
 
-+ `/paper_presentations/`: contains your presentations of readings. One PDF per presentation, named according to the week of the presentation.
++ `/reading_presentations/`: contains your presentations of readings. One PDF per presentation, named according to the week of the presentation.
 + `/research_presentations/`: contains your presentations of research. One PDF per presentation, named according to the research stage.
 + `/research_paper/`: contains your final research paper.
 + `/code_data/`: contains all scripts, notebooks, datasets, spreadsheets, or other code used in your research paper.
@@ -58,7 +58,7 @@ Organize your repository as follows:
 
 1. Place new files in the correct folder with correct filenames on your computer.
 2. Open GitHub Desktop:  
-   - Write a commit message, such as `Submit first paper presentation` or `Submit presentation of early results` or `Submit research paper`
+   - Write a commit message, such as `Submit first reading presentation` or `Submit presentation of early results` or `Submit research paper`
    - Click `Commit to main`  
    - Click `Push origin`  
 3. Confirm your files appear in your repository on `github.com`.
