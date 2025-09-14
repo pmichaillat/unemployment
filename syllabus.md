@@ -145,7 +145,9 @@ The project outline should be presented in 10 minutes with 5 slides.
 + Slide 4 – Overview of what you have so far: data & model & code & other ideas
 + Slide 5 – Existing & projected hurdles & next steps
 
-It is fine to propose several possible research questions if you are unsure. Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
+It is fine to propose several possible research questions if you are unsure. 
+
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
 
 #### Presentation structure: early results
 
@@ -169,7 +171,7 @@ Final results should be presented in 10 minutes with 6 slides.
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
 
-#### Structure of the final paper
+#### Structure of the research paper
 
 The structure of your paper should support your argument. It should help convince the reader that you have answered your research question in a compelling way. 
 
@@ -193,7 +195,7 @@ The research paper must be [written in LaTeX](#latex-resources) and compiled to 
 
 #### Code and data
 
-Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. Code and data should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) at the same time as your final paper.
+Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. Code and data should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) at the same time as your research paper.
 
 The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code and data repository as a template: https://github.com/pmichaillat/feru.
 
