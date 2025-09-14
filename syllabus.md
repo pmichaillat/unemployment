@@ -14,9 +14,9 @@ The course's topic is unemployment. The course presents facts about the labor ma
 
 #### Course resources
 
++ [Course portal](https://github.com/pmichaillat/unemployment)
 + [Lecture videos and readings](https://pascalmichaillat.org/v/)
 + [Lecture playlist](https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf)
-+ [Course portal](https://github.com/pmichaillat/unemployment)
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
 
 ---
@@ -115,16 +115,16 @@ By the end of the course, you will have experienced all the stages of a research
 One of the main objectives of the course is to complete a short research paper. A good research paper should do the following:
 
 1. Develop a well-posed, original research question
-2. Answer the research question using a combination of theory, simulations, and empirical analysis
+2. Answer the research question using a combination of theory, numerical simulations, and empirical analysis
 3. Position the paper in the prior literature
 
 Your research paper will be evaluated based on how well it accomplishes these three tasks. More specifically, a good research paper should adhere to the following guidelines:
 
-1. It should describe in details the research question you are answering, and explain why it is an original and interesting question.
+1. It should describe its research question, and explain why it is an original and interesting question.
 2. It should provide a thorough review of the prior literature, and it should explain how the paper advances that literature.
 3. It should describe the model, data, empirical strategy, and computational method used to answer the questions. 
 4. It should describe the results obtained in the analysis using diagrams, tables, and figures.
-5. It should discuss the limitations of the current analysis, and how the limitations could be addressed in the future.
+5. It should discuss the limitations of the analysis, and how the limitations could be addressed in the future.
 
 You should work on your research project on your own. However, you should feel free to discuss methods and literature with your peers and elicit their feedback. To get you started, [possible ideas for the research project](https://github.com/pmichaillat/unemployment/blob/main/ideas.md) are presented in the course portal.
 
@@ -133,7 +133,7 @@ You should work on your research project on your own. However, you should feel f
 + Thursday 16 October: presentation of project outline in class
 + Thursday 13 November: presentation of early results in class
 + Tuesday 2 December & Thursday 4 December: presentation of final results  in class
-+ Thursday 11 December: submission of final paper before noon
++ Thursday 11 December: submission of final paper on GitHub
 
 #### Presentation of project outline
 
@@ -180,7 +180,6 @@ Your research paper should be short and adhere to the following guidelines:
 + Paper must be less than 6,000 words. The wordcount applies to the main body of the text and title page but excludes the reference list.
 + Paper should contain no more than 5 exhibits (tables and figures). Individual exhibits are limited to one page each.
 + Paper must include an abstract of 150 or fewer words.
-+ Papers must be self-contained. Specifically, a reader should be able follow the analysis in the paper and be convinced it is correct and coherent from the main text alone, without consulting the appendix. 
 
 There is not a mandatory structure. You should look at the papers assigned as readings to find good templates for your structure. For an empirical paper, a typical structure is the following:
 
