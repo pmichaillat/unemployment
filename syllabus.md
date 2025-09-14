@@ -100,9 +100,9 @@ Presentation slides must be [written in LaTeX](#latex-resources) and compiled to
 
 #### Research paper
 
-Thursday class meetings will be devoted to research. Indeed, this is a research-intensive course, which will serve as good preparation for students interested in pursuing further studies in macroeconomics, especially a PhD. 
+Thursday class meetings will be devoted to research. 
 
-In this course you will shift away from learning the results of other peoples' research into learning how to conduct your own research. You will therefore devote a good part of the course to active research. You will learn:
+Indeed, this is a research-intensive course, which will serve as good preparation for students interested in pursuing further studies in economics, especially a PhD. In this course you will shift away from learning the results of other peoples' research into learning how to conduct your own research. You will therefore devote a good part of the course to active research. You will learn:
 
 + How to select a research question
 + How to develop and refine the answer to your research question
