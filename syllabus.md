@@ -133,9 +133,9 @@ You should work on your research project on your own. However, you should feel f
 + Thursday 16 October: presentation of project outline in class
 + Thursday 13 November: presentation of early results in class
 + Tuesday 2 December & Thursday 4 December: presentation of final results  in class
-+ Thursday 11 December at noon: submission of final paper
++ Thursday 11 December: submission of final paper before noon
 
-#### Presentation structure: project outline
+#### Presentation of project outline
 
 The project outline should be presented in 10 minutes with 5 slides.
 
@@ -149,7 +149,7 @@ It is fine to propose several possible research questions if you are unsure.
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
 
-#### Presentation structure: early results
+#### Presentation of early results
 
 Early results should be presented in 10 minutes with 6 slides.
 
@@ -160,7 +160,7 @@ Early results should be presented in 10 minutes with 6 slides.
 
 Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
 
-#### Presentation structure: final results
+#### Presentation of final results
 
 Final results should be presented in 10 minutes with 6 slides.
 
