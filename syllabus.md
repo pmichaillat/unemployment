@@ -14,8 +14,8 @@ The course's topic is unemployment. The course presents facts about the labor ma
 
 #### Course resources
 
-+ [Course material](https://pascalmichaillat.org/v/)
-+ [Lecture videos](https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf)
++ [Lecture videos and readings](https://pascalmichaillat.org/v/)
++ [Lecture playlist](https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf)
 + [Course portal](https://github.com/pmichaillat/unemployment)
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
 
@@ -35,7 +35,7 @@ The course's topic is unemployment. The course presents facts about the labor ma
 
 + Wednesday, 3:30pm-4:30pm
 + Engineering 2 Building, room 437
-+ Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters
++ Office hours are first-come-first-served: there is no need to sign up. Feel free to come to office hours to discuss concepts covered in the lectures and readings, discuss your research project, or talk about any other course-related matters.
 
 #### GitHub discussion forum
 
@@ -75,7 +75,7 @@ At home, you will also go over the following readings:
 + Before Tuesday 18 November: main readings in [Labor-demand policies](https://pascalmichaillat.org/v/#labor-demand-policies)
 + Before Tuesday 25 November: main readings in [Unemployment insurance](https://pascalmichaillat.org/v/#unemployment-insurance)
 
-The main readings cover important material on which the lectures are based. You should read them from beginning to end. Additional readings are also be provided: these readings give additional theoretical results, empirical evidence, some background, and may be an inspiration for your research.
+The main readings cover important material on which the lectures are based. You should read them from beginning to end. Additional readings are also provided: they give additional theoretical results, empirical evidence, background, and may be useful for your research project.
 
 ---
 
@@ -94,7 +94,7 @@ Each presentation should have 6 slides addressing the following questions:
 5. Positioning - How does the paper contribute to the previous  literature?
 6. Conclusion - What are the limitations of the answer provided in the paper? How could the answer be improved? What else would you have liked to know or learn on the topic?
 
-Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8:00am on the day of the presentation.
 
 ---
 
@@ -126,7 +126,7 @@ Your research paper will be evaluated based on how well it accomplishes these th
 4. It should describe the results obtained in the analysis using diagrams, tables, and figures.
 5. It should discuss the limitations of the current analysis, and how the limitations could be addressed in the future.
 
-You should work on your research project on your own. However, you should feel free to discuss methods and literature, and to elicit feedback, from your peers. To get you started, [this document presents possible ideas](https://github.com/pmichaillat/unemployment/blob/main/ideas.md) for the research project.
+You should work on your research project on your own. However, you should feel free to discuss methods and literature with your peers and elicit their feedback. To get you started, [possible ideas for the research project](https://github.com/pmichaillat/unemployment/blob/main/ideas.md) are presented in the course portal.
 
 #### Due dates
 
@@ -147,7 +147,7 @@ The project outline should be presented in 10 minutes with 5 slides.
 
 It is fine to propose several possible research questions if you are unsure. 
 
-Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8:00am on the day of the presentation.
 
 #### Presentation of early results
 
@@ -158,7 +158,7 @@ Early results should be presented in 10 minutes with 6 slides.
 + Slides 4 + 5 – Detailed presentation of the early results, with tables & graphs
 + Slide 6 – Existing research hurdles & next steps
 
-Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8:00am on the day of the presentation.
 
 #### Presentation of final results
 
@@ -169,7 +169,7 @@ Final results should be presented in 10 minutes with 6 slides.
 + Slides 3 + 4 + 5 – Detailed presentation of final theoretical & empirical & computational results, with tables & graphs
 + Slide 6 – Implications of the results, for instance for policy, & limitations
 
-Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8am on the day of the presentation.
+Presentation slides must be [written in LaTeX](#latex-resources) and compiled to a PDF. Presentation slides should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) before 8:00am on the day of the presentation.
 
 #### Structure of the research paper
 
@@ -195,7 +195,7 @@ The research paper must be [written in LaTeX](#latex-resources) and compiled to 
 
 #### Code and data
 
-Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyse data. Code and data should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) at the same time as your research paper.
+Any code and data used in the analysis must be submitted with the paper. This applies both to code used to simulate models and to code used to analyze data. Code and data should be [uploaded into your GitHub repository](https://github.com/pmichaillat/unemployment/blob/main/github.md) at the same time as your research paper.
 
 The code should be commented so that a reader can understand how to code works. The code should also work out of the box, so that the entire analysis can be reproduced with one prompt. Please include a README file describing all files and explaining how to run the code and obtain the results. Please use the following code and data repository as a template: https://github.com/pmichaillat/feru.
 
@@ -218,36 +218,26 @@ Letter grades will be computed based on your total grade using a standard curve.
 
 #### Math resources
 
-The course relies on basic mathematical methods such as unconstrained and constrained optimization, and linear and nonlinear differential equations—including phase diagrams.
-
-So you are expected to have good command of this material. Appropriate courses in the department of Applied Mathematics will provide a great preparation for the course. In additional, a good reference for the material used in the course is [Essential Mathematics for Economic Analysis](https://www.amazon.com/Essential-Mathematics-Economic-Analysis-Sydsaeter-dp-1292359285/dp/1292359285/ref=dp_ob_title_bk), by K. Sydsaeter, P. Hammond, A. Strom, and A. Carvajal.
-
-See also [these lecture notes](https://pascalmichaillat.org/x/) for a review of the material—although not everything covered in these notes is required for the course.
+The course relies on basic mathematical methods such as unconstrained and constrained optimization, and linear and nonlinear differential equations—including phase diagrams. You are expected to have good command of this material. Appropriate courses in the department of Applied Mathematics will provide a great preparation for the course. Additionally, a good reference for the material used in the course is [*Essential Mathematics for Economic Analysis*](https://www.amazon.com/Essential-Mathematics-Economic-Analysis-Sydsaeter-dp-1292359285/dp/1292359285/ref=dp_ob_title_bk), by K. Sydsaeter, P. Hammond, A. Strom, and A. Carvajal.
 
 #### Writing resources
 
-There is no textbook for this course, but several books might be helpful to write your research paper.
+Several books might be helpful to write your research paper. First, a good research paper must have a good structure. A good reference on how to structure your paper is [*The Little Book of Research Writing*](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162) by V. Chaubey.
 
-First and foremost, a good research paper needs to have a good structure. A good reference on how to structure your paper is [The Little Book of Research Writing](https://www.amazon.com/Little-Book-Research-Writing/dp/1974673162) by V. Chaubey.
+Scientific papers involve an elements that does not appear in other writings but are fundamental to communicate scientific ideas: graphs. It is important to make clear, clean, and meaningful graphs. A great reference on how to create compelling graphs is [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
 
-Scientific papers involve an elements that does not appear in other writings but is fundamental to communicate scientific ideas: graphs. It is important to make clear, clean, and meaningful graphs. A great reference on how to create compelling graphs is [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by E.R. Tufte.
+Once your paper has a good structure and good graphs, a decent writing style helps readers navigate the paper. The canonical reference on English style is [*The Elements of Style*](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
 
-Once your paper has a good structure and good graphs,  a decent style helps readers navigate the paper. The canonical reference on English style is [The Elements of Style](https://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) by W. Strunk and E. B. White.
-
-Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual—followed by most US journals—is the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, conventions, and style.
+Whatever you write, it is important to follow the rules and conventions of the English language. The canonical manual is the [*Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html). You should consult it if you have any question about English writing, rules, and conventions.
 
 #### LaTeX resources
 
-LaTeX is the best system to typeset scientific research. In particular, it allows to typeset mathematical expressions, insert tables and figures with results, and manage scientific references. This is why you are asked to write your presentation slides and research paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now.
-
-LaTeX templates are available on GitHub to help you write your presentations and research paper:
+LaTeX is the best system to typeset scientific research: it allows to typeset mathematical expressions, insert tables and figures with results, and manage references. This is why you are asked to write your slides and paper in LaTeX. If you continue on a research path, you will need to use LaTeX, so it is good to learn how to use it now. LaTeX templates are available on GitHub to get you started:
 
 + [LaTeX template for research paper](https://github.com/pmichaillat/latex-paper)
-+ [LaTeX template for research presentations](https://github.com/pmichaillat/latex-presentation)
++ [LaTeX template for academic presentations](https://github.com/pmichaillat/latex-presentation)
 
-These templates follow typographical best practices and have a minimalist design. You can also [use these LaTeX commands](https://github.com/pmichaillat/latex-math) in conjunction with the templates to obtain mathematical expressions that are more legible and easier to manipulate.
-
-If you are new to LaTeX, feel free [to use Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overleaf makes it easy to produce research paper and research presentations in LaTeX directly from your web browser. You can use the above templates with Overleaf.
+If you are new to LaTeX, [use Overleaf](https://www.overleaf.com/edu/ucsantacruz), for which UCSC supplies professional accounts. Overleaf makes it easy to produce papers and presentations in LaTeX directly from your web browser. You can use the above templates with Overleaf.
 
 --- 
 
