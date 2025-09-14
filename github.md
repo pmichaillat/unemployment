@@ -9,11 +9,11 @@ This repository will contain all required submissions: presentations of readings
 
 #### One-time setup
 
-1. Create a [GitHub account](https://github.com/signup) if you do not already have one. This is completely free. Several GitHub services are also available to students for free, so sign up with your UCSC email address to benefit from those. Please use a professional ID such as `@firstname_lastname`.
+1. Create a [GitHub account](https://github.com/signup) if you do not already have one. This is completely free. Several GitHub services are also available to students for free, so sign up with your UCSC email address to benefit from those. Please use a professional ID such as `firstname_lastname`.
 2. Watch the [course portal on GitHub](https://github.com/pmichaillat/unemployment) to be notified when any new material is uploaded, new discussions are started, and new contributions are made to ongoing discussions. To watch the repository, click on the `Notifications` button at the top of the GitHub repository, sign in, and select `All Activity`.
 3. Install [GitHub Desktop](https://desktop.github.com) on your computer.
 4. Create a new repository in your GitHub account named `econ182_fall2025`.
-5. If you wish to keep your repository private, add the instructor (`@pmichaillat`) as a collaborator with read access. Ensure the instructor has read access at all times.
+5. If you wish to keep your repository private, add the instructor (`pmichaillat`) as a collaborator with read access. Ensure the instructor has read access at all times.
 6. Use GitHub Desktop to clone the repository to your computer: `File → Clone Repository`, select your repository, and save it to your computer.
 
 ---
