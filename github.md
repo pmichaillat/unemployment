@@ -51,8 +51,8 @@ This repository will contain all required submissions: presentations of readings
 1. Place new files in the correct folder with correct filenames on your computer.
 2. Open GitHub Desktop and select your course repository.
 3. Write a commit message, such as `Submit presentation of early results` or `Submit research paper`
-4. Click `Commit to main`  
-5. Click `Push origin`    
+4. Click `Commit to main`
+5. Click `Push origin`
 6. Confirm your files appear online in your GitHub repository.
 
 ---
