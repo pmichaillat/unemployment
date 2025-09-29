@@ -15,7 +15,7 @@
 
 + [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – Faye
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – Deen
-+ [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – 
++ [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – Daniel
 + [Michaillat and Saez (2025)](https://pascalmichaillat.org/16.pdf) – Natalie
 
 ---
