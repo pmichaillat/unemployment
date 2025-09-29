@@ -13,7 +13,7 @@
 
 #### Week 2 - Tuesday 7 October
 
-+ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – Faye
++ [Petrongolo and Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) – 
 + [Elsby, Michaels, and Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) – Deen
 + [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) – Daniel
 + [Michaillat and Saez (2025)](https://pascalmichaillat.org/16.pdf) – Natalie
@@ -49,7 +49,7 @@
 
 #### Week 6 - Tuesday 4 November
 
-+ [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) – Faye
++ [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) –
 + [Crepon at al (2013)](https://doi.org/10.1093/qje/qjt001) – Riley
 + [Michaillat and Saez (2015)](https://pascalmichaillat.org/3.pdf) – Madeline
 + [Breza, Kaur, and Shamdasani (2021)](https://doi.org/10.1257/aer.20201385) - Isabella
@@ -61,7 +61,7 @@
 + [Michaillat and Saez (2021)](https://pascalmichaillat.org/9.pdf) – Natalie
 + [Michaillat and Saez (2024)](https://pascalmichaillat.org/13.pdf) – Riley
 + [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Juan
-+ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – Faye
++ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – 
 
 ---
 
