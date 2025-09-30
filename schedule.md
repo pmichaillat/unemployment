@@ -70,7 +70,7 @@
 + [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – 
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – 
 + [Clemens, Edwards, and Meer (2025)](https://doi.org/10.3386/w34033) – 
-+ [Neumann, Fishback, and Kantor (2010)](https://doi.org/10.1017/S0022050710000100) – 
++ [Neumann, Fishback, and Kantor (2010)](https://doi.org/10.1017/S0022050710000100) – Juan
 
 ---
 
