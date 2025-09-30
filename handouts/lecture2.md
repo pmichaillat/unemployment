@@ -6,7 +6,9 @@
 
 ---
 
-Watch the lecture videos for week 1 on the topic of "Labor market facts and matching function". For each video, write down the most pressing question that came to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 2 on the topic of "Labor market facts and matching function". For each video, write down the most pressing question that came to mind. We will discuss and answer these questions in class.
+
+---
 
 #### Question about video 3:
 
@@ -44,3 +46,4 @@ Watch the lecture videos for week 1 on the topic of "Labor market facts and matc
 
 +
 
+---
