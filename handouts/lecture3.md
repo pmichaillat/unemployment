@@ -6,7 +6,7 @@
 
 ---
 
-Watch the lecture videos for week 2 on the topic of "Matching model of the labor market". For each video, write down the most pressing questions that come to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 3 on the topic of "Matching model of the labor market". For each video, write down the most pressing questions that come to mind. We will discuss and address these questions in class.
 
 #### Question about video 12:
 

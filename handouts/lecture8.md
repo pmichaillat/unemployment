@@ -6,7 +6,7 @@
 
 ---
 
-Watch the lecture videos for week 6 on the topic of "Labor-demand policies". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 8 on the topic of "Labor-demand policies". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
 #### Question about video 97:
 

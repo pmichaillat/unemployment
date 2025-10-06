@@ -6,7 +6,7 @@
 
 ---
 
-Watch the lecture videos for week 4 on the topic of "Unemployment fluctuations". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
+Watch the lecture videos for week 5 on the topic of "Unemployment fluctuations". For each video, write down the most pressing question that comes to mind. We will discuss and address these questions in class.
 
 
 #### Question about video 46:
