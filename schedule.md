@@ -56,27 +56,24 @@
 
 ---
 
-#### Week 7 - Tuesday 11 November
-
-+ [Michaillat and Saez (2021)](https://pascalmichaillat.org/9.pdf) – Natalie
-+ [Michaillat and Saez (2024)](https://pascalmichaillat.org/13.pdf) – Riley
-+ [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Juan
-+ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – 
+#### Week 7 - Tuesday 11 November - No class: academic holiday
 
 ---
 
 #### Week 8 - Tuesday 18 November
+
++ [Michaillat and Saez (2021)](https://pascalmichaillat.org/9.pdf) – Natalie
++ [Michaillat and Saez (2024)](https://pascalmichaillat.org/13.pdf) – Riley
++ [Robinson (1946)](https://tidsskrift.dk/nationaloekonomisktidsskrift/article/view/60263) – Juan
++ [Gokten, Heimberger, and Lichtenberger (2024)](https://doi.org/10.1016/j.euroecorev.2024.104725) – Rongjin
+
+---
+
+#### Week 9 - Tuesday 25 November
 
 + [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – 
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – 
 + [Clemens, Edwards, and Meer (2025)](https://doi.org/10.3386/w34033) – 
 + [Neumann, Fishback, and Kantor (2010)](https://doi.org/10.1017/S0022050710000100) – Juan
 
----
 
-#### Week 9 - Tuesday 25 November
-
-+ [Landais, Michaillat, and Saez (2018a)](https://pascalmichaillat.org/4.pdf) – Rongjin
-+ [Landais, Michaillat, and Saez (2018b)](https://pascalmichaillat.org/5.pdf) – 
-+ [Marinescu (2017)](https://doi.org/10.1016/j.jpubeco.2017.02.012) – 
-+ [Lalive, Landais, and Zweimueller (2015)](https://doi.org/10.1257/aer.20131273) – 
