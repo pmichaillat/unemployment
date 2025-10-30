@@ -49,7 +49,7 @@
 
 #### Week 6 - Tuesday 4 November
 
-+ [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) –
++ [Michaillat (2012)](https://pascalmichaillat.org/1.pdf) – Alondra
 + [Crepon at al (2013)](https://doi.org/10.1093/qje/qjt001) – Riley
 + [Michaillat and Saez (2015)](https://pascalmichaillat.org/3.pdf) – Madeline
 + [Breza, Kaur, and Shamdasani (2021)](https://doi.org/10.1257/aer.20201385) - Isabella
@@ -73,7 +73,7 @@
 
 + [Michaillat (2014)](https://pascalmichaillat.org/2.pdf) – 
 + [Auerbach and Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) – 
-+ [Clemens, Edwards, and Meer (2025)](https://doi.org/10.3386/w34033) – 
++ [Clemens, Edwards, and Meer (2025)](https://doi.org/10.3386/w34033) – Alondra
 + [Neumann, Fishback, and Kantor (2010)](https://doi.org/10.1017/S0022050710000100) – Juan
 
 
